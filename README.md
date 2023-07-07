@@ -27,3 +27,11 @@ Como a proposta lida com o problema? Ela de fato resolve / ajuda a resolver o pr
 A proposta leva em consideração questões éticas? Como ela lida com essas questões?
 Quais os impactos sociais e educacionais dessa ferramenta?
 </p>
+
+<p>
+  Critérios de avaliação em Administração de Sistemas Operacionais no Projeto integrador:
+  
+- O software proposto irá executar em qual(is) Sistema(s) Operacional(is)? Por quê?
+- Quais requisitos mínimos para o dispositivo executar o sistema de forma satisfatória?
+- Quanto espaço de armazenamento será necessário para cada registro do banco de dados (separado por entidade)? Considere que cada caractere ocupa 1 Byte, cada nº inteiro ocupa 4 Bytes e cada nº real ocupa 8 Bytes.
+</p>
