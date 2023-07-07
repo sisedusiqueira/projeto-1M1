@@ -26,7 +26,7 @@ Como foi realizado o levantamento das soluções tecnológicas disponíveis? Os 
 Como a proposta lida com o problema? Ela de fato resolve / ajuda a resolver o problema levantado?
 A proposta leva em consideração questões éticas? Como ela lida com essas questões?
 Quais os impactos sociais e educacionais dessa ferramenta?
-</p>
+</p><br>
 
 <p>
   Critérios de avaliação em Administração de Sistemas Operacionais no Projeto integrador:
