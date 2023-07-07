@@ -2,7 +2,7 @@
 
 <h1>Projeto Sisedu 1m1</h1>
 <p>
-  O trabalho deverá ser feito em grupo de 3 a 5 pessoas. Valerá nota para mais de um componente curricular.<br> Os componentes curriculares que participarão dessa avaliação:<br><br>
+  O trabalho deverá ser feito em grupo de 3 a 5 pessoas. Valerá nota para mais de um componente curricular.<br><br> Os componentes curriculares que participarão dessa avaliação:<br>
 - Tecnologia e Sociedade, prof. Pedro Isaac<br>
 - Análise e Projeto de Sistemas, prof. Cristiano Santana<br>
 - Tecnologias Digitais na Educação, profa. Clara Casotti<br>
