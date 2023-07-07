@@ -7,7 +7,7 @@
 - Análise e Projeto de Sistemas, prof. Cristiano Santana<br>
 - Tecnologias Digitais na Educação, profa. Clara Casotti<br>
 - Administração de Sistemas Operacionais, prof. Luiz Aguiar<br>
-- Design Gráfico e Projeto de Interfaces, profa. Gizele Abdon<br>
+- Design Gráfico e Projeto de Interfaces, profa. Gizele Abdon<br><br>
 Será marcada uma data, no mês de julho (provavelmente entre 17 e 21 de julho), para apresentação do trabalho pelos estudantes aos professores. Também deverá ser enviado (anexado aqui) o trabalho contendo os itens destacados no item 2 dessas orientações.
 
 1. Objetivo: Apresentar um projeto de ferramenta informacional (programa, software, site, aplicativo, plataforma, rede social etc.) que busque atender a alguma demanda educacional ou que tenha alguma relação com a educação ou com questões do processo de ensino-aprendizagem.
