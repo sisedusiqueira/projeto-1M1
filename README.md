@@ -2,7 +2,7 @@
 
 <h1>Projeto Sisedu 1M1</h1>
 <p>
-Os componentes curriculares que participarão dessa avaliação:
+Os componentes curriculares que participarão dessa avaliação:<br>
 - Tecnologia e Sociedade, prof. Pedro Isaac<br>
 - Análise e Projeto de Sistemas, prof. Cristiano Santana<br>
 - Tecnologias Digitais na Educação, profa. Clara Casotti<br>
