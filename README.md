@@ -52,9 +52,6 @@ Quais os impactos sociais e educacionais dessa ferramenta?<br>
 <hr>
 <ul>
   <li>Adriano</li>
-  <li></li>
+  <li>Lizandra</li>
+  <li>Sheila</li>
 </ul>
- 
-- Lizandra
-- Sheila
-</p>
