@@ -39,8 +39,6 @@ Quais os impactos sociais e educacionais dessa ferramenta?<br>
 - Quais requisitos mínimos para o dispositivo executar o sistema de forma satisfatória?
 - Quanto espaço de armazenamento será necessário para cada registro do banco de dados (separado por entidade)? Considere que cada caractere ocupa 1 Byte, cada nº inteiro ocupa 4 Bytes e cada nº real ocupa 8 Bytes.
 </p>
-
-<h2>Instituto Federal de Brasília - Campus São Sebastião</h2>
   
 <h1>
 <code>Técnico em Desenvolvimento de Sistema Educacionais</code><br><br>
@@ -52,9 +50,7 @@ Quais os impactos sociais e educacionais dessa ferramenta?<br>
 
 <h2>integrantes</h2>
 <ul>
-  <li>Adriano</li>
   <li>Lizandra Priscila Siqueira dos Anjos</li>
-  <li>Sheila</li>
 </ul>
 
 <h2>Orientador</h2>
