@@ -41,8 +41,8 @@ Quais os impactos sociais e educacionais dessa ferramenta?<br>
 </p>
 
 <h1>
-<code>Análise e Desenvolvimento de Sistemas</code><br>
-<code>Projeto: Desenvolvimento de uma Aplicação Interativa</code><br>
+<code>Análise e Desenvolvimento de Sistemas</code><br><br>
+<code>Projeto: Desenvolvimento de uma Aplicação Interativa</code><br><br>
 <code>Eixo 1</code>
 </h1>
 
@@ -51,6 +51,9 @@ Quais os impactos sociais e educacionais dessa ferramenta?<br>
 <h2>integrantes</h2>
 <ul>
   <li>Adriano</li>
-  <li>Lizandra</li>
+  <li>Lizandra Priscila Siqueira dos Anjos</li>
   <li>Sheila</li>
 </ul>
+
+<h2>Orientador</h2>
+<p>Luiz Henrique de Morais Aguiar</p>
