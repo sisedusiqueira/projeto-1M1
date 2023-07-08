@@ -1,8 +1,8 @@
 # projeto-1M1
 
-<h1>Projeto Sisedu 1m1</h1>
+<h1>Projeto Sisedu 1M1</h1>
 <p>
-Os componentes curriculares que participarão dessa avaliação:<br>
+Os componentes curriculares que participarão dessa avaliação:
 - Tecnologia e Sociedade, prof. Pedro Isaac<br>
 - Análise e Projeto de Sistemas, prof. Cristiano Santana<br>
 - Tecnologias Digitais na Educação, profa. Clara Casotti<br>
@@ -11,10 +11,10 @@ Os componentes curriculares que participarão dessa avaliação:<br>
                                                                    
 Será marcada uma data, no mês de julho (provavelmente entre 17 e 21 de julho), para apresentação do trabalho pelos estudantes aos professores. Também deverá ser enviado (anexado aqui) o trabalho contendo os itens destacados no item 2 dessas orientações.
 
-1. Objetivo:<br><br>
+1. Objetivo:<br>
 Apresentar um projeto de ferramenta informacional (programa, software, site, aplicativo, plataforma, rede social etc.) que busque atender a alguma demanda educacional ou que tenha alguma relação com a educação ou com questões do processo de ensino-aprendizagem.
 
-3. O que o projeto deve ter:<br><br>
+3. O que o projeto deve ter:<br>
 Definição do problema a ser abordado.<br>
 Soluções disponíveis: Verificar as soluções tecnológicas atualmente disponíveis, quais são suas potencialidades e seus limites.<br>
 Apresentação do conceito da proposta, destacando o que a ferramenta vai buscar resolver.<br>
@@ -22,7 +22,7 @@ Apresentação dos requisitos do sistema e da modelagem em UML.<br>
 Interface gráfica do aplicativo.<br>
 Apresentação dos detalhes do ambiente de execução.<br>
 
-4. Critérios de avaliação em Tecnologia e Sociedade:<br><br>
+4. Critérios de avaliação em Tecnologia e Sociedade:<br>
 O problema é significativo e está bem delimitado?<br>
 Como foi realizado o levantamento das soluções tecnológicas disponíveis?<br>
 Os limites e potencialidades das ferramentas atuais foram analisados?<br>
@@ -48,12 +48,20 @@ Quais os impactos sociais e educacionais dessa ferramenta?<br>
 
 <p>Uma solução para o controle das finanças pessoais. Monitore de perto seus gastos e revise suas despesas regularmente. Registre todos os seus proventos e despesas, categorizando-as considerados. Identifique áreas onde você pode reduzir gastos necessários e fazer ajustes no seu estilo de vida, se necessário. Acompanhe seu orçamento de forma eficiente.</p>
 
-<h1>integrantes</h1>
+<h2>integrantes</h2>
 <ul>
   <li>Adriano</li>
   <li>Lizandra Priscila Siqueira dos Anjos</li>
   <li>Sheila</li>
 </ul>
 
-<h1>Orientador</h1>
+<h2>Orientador</h2>
 <p>Luiz Henrique de Morais Aguiar</p>
+
+<h2>Instruções de uso</h2>
+
+<h1>Documentação</h1>
+
+<h1>código</h1>
+
+<h1>Apresentação</h1>
