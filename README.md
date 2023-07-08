@@ -39,11 +39,11 @@ Quais os impactos sociais e educacionais dessa ferramenta?<br>
 - Quais requisitos mínimos para o dispositivo executar o sistema de forma satisfatória?
 - Quanto espaço de armazenamento será necessário para cada registro do banco de dados (separado por entidade)? Considere que cada caractere ocupa 1 Byte, cada nº inteiro ocupa 4 Bytes e cada nº real ocupa 8 Bytes.
 </p>
-<h1>PROJETO<h1>
+<h1>SISEDU<h1>
 <h1>
 <code>Técnico em Desenvolvimento de Sistema Educacionais</code><br><br>
 <code>Projeto: Desenvolvimento de uma Aplicação Interativa</code><br><br>
-<code>SISEDU 1M1</code>
+<code>1M1</code>
 </h1>
 
 <p>Uma solução para o controle das finanças pessoais. Monitore de perto seus gastos e revise suas despesas regularmente. Registre todos os seus proventos e despesas, categorizando-as considerados. Identifique áreas onde você pode reduzir gastos necessários e fazer ajustes no seu estilo de vida, se necessário. Acompanhe seu orçamento de forma eficiente.</p>
