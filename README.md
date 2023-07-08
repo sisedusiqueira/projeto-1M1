@@ -50,8 +50,10 @@ Quais os impactos sociais e educacionais dessa ferramenta?<br>
 
 <h2>integrantes</h2>
 <hr>
-<p>
-- Adriano
+<ol>
+  <li>Adriano</li>
+</ol>
+ 
 - Lizandra
 - Sheila
 </p>
