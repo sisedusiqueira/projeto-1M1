@@ -26,7 +26,8 @@ Apresentação dos detalhes do ambiente de execução.<br>
 O problema é significativo e está bem delimitado?<br>
 Como foi realizado o levantamento das soluções tecnológicas disponíveis?<br>
 Os limites e potencialidades das ferramentas atuais foram analisados?<br>
-Como a proposta lida com o problema? Ela de fato resolve / ajuda a resolver o problema levantado?<br>
+Como a proposta lida com o problema?<br>
+Ela de fato resolve / ajuda a resolver o problema levantado?<br>
 A proposta leva em consideração questões éticas? Como ela lida com essas questões?<br>
 Quais os impactos sociais e educacionais dessa ferramenta?<br>
 </p><br>
