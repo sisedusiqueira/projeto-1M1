@@ -1,6 +1,6 @@
 # projeto-1M1
 
-<h1>Instruções de Trabalho Sisedu 1M1</h1>
+<h1>Instruções para Trabalho Sisedu 1M1</h1>
 <p>
 Os componentes curriculares que participarão dessa avaliação:<br>
 - Tecnologia e Sociedade, prof. Pedro Isaac<br>
