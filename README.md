@@ -41,7 +41,17 @@ Quais os impactos sociais e educacionais dessa ferramenta?<br>
 </p>
 
 <h1>
-<code>Análise e Desenvolvimento de Sistemas</code>
-<code>Projeto: Desenvolvimento de uma Aplicação Interativa</code>
+<code>Análise e Desenvolvimento de Sistemas</code><br>
+<code>Projeto: Desenvolvimento de uma Aplicação Interativa</code><br>
 <code>Eixo 1</code>
 </h1>
+
+<p>Uma solução para o controle das finanças pessoais. Monitore de perto seus gastos e revise suas despesas regularmente. Registre todos os seus proventos e despesas, categorizando-as considerados. Identifique áreas onde você pode reduzir gastos necessários e fazer ajustes no seu estilo de vida, se necessário. Acompanhe seu orçamento de forma eficiente.</p>
+
+<h2>integrantes</h2>
+<hr>
+<p>
+- Adriano
+- Lizandra
+- Sheila
+</p>
