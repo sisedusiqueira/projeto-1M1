@@ -11,10 +11,10 @@ Os componentes curriculares que participarão dessa avaliação:<br>
                                                                    
 Será marcada uma data, no mês de julho (provavelmente entre 17 e 21 de julho), para apresentação do trabalho pelos estudantes aos professores. Também deverá ser enviado (anexado aqui) o trabalho contendo os itens destacados no item 2 dessas orientações.
 
-1. Objetivo:<br>
+1. Objetivo:<br><br>
 Apresentar um projeto de ferramenta informacional (programa, software, site, aplicativo, plataforma, rede social etc.) que busque atender a alguma demanda educacional ou que tenha alguma relação com a educação ou com questões do processo de ensino-aprendizagem.
 
-3. O que o projeto deve ter:<br>
+3. O que o projeto deve ter:<br><br>
 Definição do problema a ser abordado.<br>
 Soluções disponíveis: Verificar as soluções tecnológicas atualmente disponíveis, quais são suas potencialidades e seus limites.<br>
 Apresentação do conceito da proposta, destacando o que a ferramenta vai buscar resolver.<br>
@@ -22,7 +22,7 @@ Apresentação dos requisitos do sistema e da modelagem em UML.<br>
 Interface gráfica do aplicativo.<br>
 Apresentação dos detalhes do ambiente de execução.<br>
 
-4. Critérios de avaliação em Tecnologia e Sociedade:<br>
+4. Critérios de avaliação em Tecnologia e Sociedade:<br><br>
 O problema é significativo e está bem delimitado?<br>
 Como foi realizado o levantamento das soluções tecnológicas disponíveis?<br>
 Os limites e potencialidades das ferramentas atuais foram analisados?<br>
