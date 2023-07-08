@@ -1,14 +1,14 @@
 # projeto-1M1
 
-<h1>Instruções para Projeto Sisedu 1M1</h1>
+<h1>Instruções de Trabalho Sisedu 1M1</h1>
 <p>
 Os componentes curriculares que participarão dessa avaliação:<br>
 - Tecnologia e Sociedade, prof. Pedro Isaac<br>
 - Análise e Projeto de Sistemas, prof. Cristiano Santana<br>
 - Tecnologias Digitais na Educação, profa. Clara Casotti<br>
 - Administração de Sistemas Operacionais, prof. Luiz Aguiar<br>
-- Design Gráfico e Projeto de Interfaces, profa. Gizele Abdon<br><br>
-                                                                   
+- Design Gráfico e Projeto de Interfaces, profa. Gizele Abdon<br>
+  
 Será marcada uma data, no mês de julho (provavelmente entre 17 e 21 de julho), para apresentação do trabalho pelos estudantes aos professores. Também deverá ser enviado (anexado aqui) o trabalho contendo os itens destacados no item 2 dessas orientações.
 
 1. Objetivo:<br>
@@ -39,7 +39,7 @@ Quais os impactos sociais e educacionais dessa ferramenta?<br>
 - Quais requisitos mínimos para o dispositivo executar o sistema de forma satisfatória?
 - Quanto espaço de armazenamento será necessário para cada registro do banco de dados (separado por entidade)? Considere que cada caractere ocupa 1 Byte, cada nº inteiro ocupa 4 Bytes e cada nº real ocupa 8 Bytes.
 </p>
-
+<h1>PROJETO<h1>
 <h1>
 <code>Técnico em Desenvolvimento de Sistema Educacionais</code><br><br>
 <code>Projeto: Desenvolvimento de uma Aplicação Interativa</code><br><br>
