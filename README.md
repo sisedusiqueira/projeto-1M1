@@ -49,7 +49,6 @@ Quais os impactos sociais e educacionais dessa ferramenta?<br>
 <p>Uma solução para o controle das finanças pessoais. Monitore de perto seus gastos e revise suas despesas regularmente. Registre todos os seus proventos e despesas, categorizando-as considerados. Identifique áreas onde você pode reduzir gastos necessários e fazer ajustes no seu estilo de vida, se necessário. Acompanhe seu orçamento de forma eficiente.</p>
 
 <h2>integrantes</h2>
-<hr>
 <ul>
   <li>Adriano</li>
   <li>Lizandra</li>
