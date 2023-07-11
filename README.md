@@ -50,7 +50,9 @@ Quais os impactos sociais e educacionais dessa ferramenta?<br>
 
 <h2>integrantes</h2>
 <ul>
-  <li>Lizandra Priscila Siqueira dos Anjos</li>
+  <li>Adriano</li>
+  <li>Lizandra Siqueira dos Anjos</li>
+  <li>Sheila</li>
 </ul>
 
 <h2>Orientador</h2>
