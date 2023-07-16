@@ -70,7 +70,7 @@ Quais os impactos sociais e educacionais dessa ferramenta?<br>
   <li><a href="">Documento Apresentação de Projeto</li>
   <li><a href="">Slides Apresentação</li>
 <ul>
-
+<p>
 <h1>Código</h1>
 <ul>
   <li><a href="">Código</li>
@@ -81,15 +81,4 @@ Quais os impactos sociais e educacionais dessa ferramenta?<br>
   <li><a href="">Apresentação</li>
 </ul>
 
-
-
-<h1>Documentação</h1>
-<ul>
-  <li><a href="http://www.waltenomartins.com.br/esof2_projeto_documento_de_sw.pdf">Documentação de Projeto</li>
-  <li><a href="">Análise de Requisitos</li>
-  <li><a href="">Diagrama de Caso de Uso</li>
-  <li><a href="">Layout</li>
-  <li><a href="">Interface Gráfica</li>
-  <li><a href="">Documento Apresentação de Projeto</li>
-  <li><a href="">Slides Apresentação</li>
-<ul>
+</p>
