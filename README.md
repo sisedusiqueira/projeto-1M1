@@ -46,7 +46,7 @@ Quais os impactos sociais e educacionais dessa ferramenta?<br>
 <code>1M1</code>
 </h1>
 
-<p>Uma solução para .... .</p>
+<p>Uma solução para registro e gerenciamento de... </p>
 
 <h2>integrantes</h2>
 <ul>
