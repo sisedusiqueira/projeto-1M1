@@ -70,15 +70,5 @@ Quais os impactos sociais e educacionais dessa ferramenta?<br>
   <li><a href="">Documento Apresentação de Projeto</li>
   <li><a href="">Slides Apresentação</li>
 <ul>
-  
 
-<h1>Código</h1>
-<ul>
-  <li><a href="">Código</li>
-</ul>
-    
-<h1>Apresentação</h1>
-<ul>
-  <li><a href="">Apresentação</li>
-</ul>
 
