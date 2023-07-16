@@ -46,7 +46,7 @@ Quais os impactos sociais e educacionais dessa ferramenta?<br>
 <code>1M1</code>
 </h1>
 
-<p>Uma solução para registro e gerenciamento de... </p>
+<p>Uma solução para o registro e gerenciamento de número de ocorrências no IF... </p>
 
 <h2>integrantes</h2>
 <ul>
