@@ -10,7 +10,7 @@ Os componentes curriculares que participarão dessa avaliação:<br>
 - Tecnologias Digitais na Educação, profa. Clara Casotti<br>
 - Tecnologia e Sociedade, prof. Pedro Isaac<br>
 
-Dia 26 de Julho. Data da apresentação do trabalho pelos estudantes aos professores.<br> Também deverá ser enviado (anexado aqui) o trabalho contendo os itens destacados no item 2 dessas orientações.
+Dia 26 de Julho. Data da apresentação do trabalho pelos estudantes aos professores.<br> Também deverá ser enviado em anexo o trabalho digital contendo os itens destacados no item 2 dessas orientações.
 
 1. Objetivo:<br>
 
