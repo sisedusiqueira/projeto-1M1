@@ -2,7 +2,7 @@
 
 <h1>Instruções para Trabalho</h1>
 <p>
-Os componentes curriculares que participarão dessa avaliação:<br><br>
+Os componentes curriculares que participarão dessa avaliação:<br>
   
 - Administração de Sistemas Operacionais, prof. Luiz Aguiar<br>
 - Análise e Projeto de Sistemas, prof. Cristiano Santana<br>
