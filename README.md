@@ -1,7 +1,7 @@
 # projeto-1M1
 
-<h1>Instruções para Trabalho</h1>
-<p>
+# Instruções para Trabalho
+
 Os componentes curriculares que participaram dessa avaliação:<br>
   
 - Administração de Sistemas Operacionais. Profº Luiz Aguiar<br>
@@ -41,17 +41,14 @@ Dia 26 de Julho. Data da apresentação do trabalho pelos estudantes aos profess
 - Quais requisitos mínimos para o dispositivo executar o sistema de forma satisfatória?
 - Quanto espaço de armazenamento será necessário para cada registro do banco de dados (separado por entidade)?<br>
 - Considere que cada caractere ocupa 1 Byte, cada nº inteiro ocupa 4 Bytes e cada nº real ocupa 8 Bytes.
-</p>
 
-<img src="https://giphy.com/static/img/zoomies.gif" width="200">
- 
-<h1>
-  <code>Técnico em Desenvolvimento de Sistema Educacionais</code><br><br>
-  <code>Projeto: Desenvolvimento de uma Aplicação Interativa</code><br><br>
-  <code>1M1</code>
-</h1>
 
-<p>Desenvolvimento de um Sistema de Registro e Gerenciamento de Ocorrências no Instituto Federal. </p>
+<img 
+src="https://giphy.com/static/img/zoomies.gif" width="200">
+
+`Técnico em Desenvolvimento de Sistema Educacionais`
+`Projeto: Desenvolvimento de uma Aplicação Interativa`
+`1M1`
 
 ## Integrantes
 
