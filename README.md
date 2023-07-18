@@ -50,22 +50,21 @@ Dia 26 de Julho. Data da apresentação do trabalho pelos estudantes aos profess
 
 <p>Uma solução para o registro e gerenciamento de número de ocorrências no IF... </p>
 
-<h2>integrantes</h2>
-<p>
+<h2>Integrantes</h2>
 <ul>
   <li>Adriano</li>
   <li>Lizandra Siqueira dos Anjos</li>
   <li>Sheila</li>
 </ul>
-</p>
 
 <h2>Orientador</h2>
-<p>Luiz Henrique de Morais Aguiar</p>
+<ul>
+  <li>Luiz Henrique de Morais Aguiar</li>
+</ul>
 
 <h2>Instruções de uso</h2>
 
 <h1>Documentação do Projeto</h1>
-<p>
 <ul>
   <li><a href="">Documentação</li>
   <li><a href="">Objetivo</li>
@@ -77,5 +76,9 @@ Dia 26 de Julho. Data da apresentação do trabalho pelos estudantes aos profess
   <li><a href="">Slide de Apresentação</li>
   <li><a href="">Vídeo de Apresentação</li>
 <ul>
-</p>
+
+<h1>Documentação para seguir como exemplo</h1>
+<ul>
+  <li><a href="">Documento</li>
+<ul>
 
