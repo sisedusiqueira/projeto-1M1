@@ -54,11 +54,11 @@ Dia 26 de Julho. Data da apresentação do trabalho pelos estudantes aos profess
 <p>Desenvolvimento de um Sistema de Registro e Gerenciamento de Ocorrências no Instituto Federal. </p>
 
 ## Integrantes
-<ul>
-  <li>Adriano</li>
-  <li>Lizandra Siqueira dos Anjos</li>
-  <li>Sheila</li>
-</ul>
+
+Adriano
+Lizandra Siqueira dos Anjos
+Sheila
+
 
 ## Orientador
 
@@ -82,7 +82,8 @@ Dia 26 de Julho. Data da apresentação do trabalho pelos estudantes aos profess
   <li><a href="">Slide Apresentação</li>
 <ol>
 
-#Código
+  
+# Código
 <li><a href="/README.md"> Código Fonte</a></li>
 
 
