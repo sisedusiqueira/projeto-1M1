@@ -49,7 +49,7 @@ Dia 26 de Julho. Data da apresentação do trabalho pelos estudantes aos profess
   <code>1M1</code>
 </h1>
 
-<p>Uma solução para o registro e gerenciamento de número de ocorrências no IF... </p>
+<p>Uma solução para um Sistema de Registro e Gerenciamento de Ocorrências no Instituto Federal. </p>
 
 <h2>Integrantes</h2>
 <ul>
