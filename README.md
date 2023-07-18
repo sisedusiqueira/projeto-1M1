@@ -75,6 +75,6 @@ Dia 26 de Julho. Data da apresentação do trabalho pelos estudantes aos profess
   <li><a href="">Designer Gráfico - Layout</li>
   <li><a href="">Interface Gráfica</li>
   <li><a href="">Slide de Apresentação</li>
-  <li><a href="">Vídeo de Apresentação</li>
 <ul>
-<h1>Vídeo de Apresentação</h1>
+<h1>Vídeo Apresentação</h1>
+  <li><a href="">Vídeo de Apresentação</li>
