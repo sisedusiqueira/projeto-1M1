@@ -81,12 +81,10 @@ Sheila
   <li><a href="">Slide Apresentação</li>
 <ol>
 
-  
 # Código
-<li><a href="/README.md"> Código Fonte</a></li>
-
+<a href="/README.md"> Código Fonte
 
 # Apresentação
-  <li><a href="">Vídeo Apresentação</li>
+<a href="">Vídeo Apresentação
 
 
