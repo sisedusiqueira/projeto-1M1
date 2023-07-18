@@ -53,26 +53,26 @@ Dia 26 de Julho. Data da apresentação do trabalho pelos estudantes aos profess
 
 <p>Desenvolvimento de um Sistema de Registro e Gerenciamento de Ocorrências no Instituto Federal. </p>
 
-<h2>Integrantes</h2>
+## Integrantes
 <ul>
   <li>Adriano</li>
   <li>Lizandra Siqueira dos Anjos</li>
   <li>Sheila</li>
 </ul>
 
-<h2>Orientador</h2>
-<ul>
-  <li>Luiz Henrique de Morais Aguiar</li>
-</ul>
+## Orientador
 
-<h2>Instruções de uso</h2>
+* Luiz Henrique de Morais Aguiar
+
+
+## Instruções de utilização
 <li><a href="https://docs.google.com/document/d/1IpcrWjUJRWp5rwmWBBKbLv1Qcyn674b2ANj1g_O4s2s/edit?usp=sharing">Documentação projeto-1M1</li>
 
-<h1>Exemplo Documentação</h1>
+# Exemplo Documentação
   <li><a href="">Documentação</li>
     
-<h1>Documentação do Projeto</h1>
-<ul>
+# Documentação do Projeto
+<ol>
   <li><a href="">Objetivo</li>
   <li><a href="">Requisitos Funcionais e Não Funcionais</li>
   <li><a href="">Diagrama de Caso de Uso</li>
@@ -80,10 +80,13 @@ Dia 26 de Julho. Data da apresentação do trabalho pelos estudantes aos profess
   <li><a href="">Designer Gráfico - Layout</li>
   <li><a href="">Interface Gráfica</li>
   <li><a href="">Slide Apresentação</li>
-<ul>
+<ol>
 
-</ul>
-<h1>Vídeo Apresentação</h1>
+#Código
+<li><a href="/README.md"> Código Fonte</a></li>
+
+
+# Apresentação
   <li><a href="">Vídeo Apresentação</li>
 
 
