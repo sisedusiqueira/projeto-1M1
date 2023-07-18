@@ -42,7 +42,7 @@ Dia 26 de Julho. Data da apresentação do trabalho pelos estudantes aos profess
 - Quanto espaço de armazenamento será necessário para cada registro do banco de dados (separado por entidade)?<br>
 - Considere que cada caractere ocupa 1 Byte, cada nº inteiro ocupa 4 Bytes e cada nº real ocupa 8 Bytes.
 
-# Notifica 
+# APP Notifica 
 
 <img 
 src="https://giphy.com/static/img/zoomies.gif" width="200">
