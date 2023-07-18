@@ -77,11 +77,5 @@ Sheila
   <li><a href="">Interface Gráfica</li>
   <li><a href="">Slide Apresentação</li>
 <ol>
-    
-# Apresentação
-
 
 # Apresentação
-
-
-
