@@ -45,7 +45,7 @@ Dia 26 de Julho. Data da apresentação do trabalho pelos estudantes aos profess
 # Aplicativo NotIFica
 
 <img 
-src="[https://giphy.com/gifs/vote-vote2020-the-ballot-bunch-va8eeJC2DEZXF8A4Nx](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWhqZXNiejQ4cXZkdmczZXMyaG0zcnJ3c2pjMDY2b25rYWw4cHd0NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/va8eeJC2DEZXF8A4Nx/giphy.gif)" width="200">
+src="https://i.giphy.com/media/va8eeJC2DEZXF8A4Nx/giphy.webp" width="200">
 
 `Técnico em Desenvolvimento de Sistema Educacionais`
 
