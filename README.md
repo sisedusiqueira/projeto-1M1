@@ -64,7 +64,7 @@ Dia 26 de Julho. Data da apresentação do trabalho pelos estudantes aos profess
 </ul>
 
 <h2>Instruções de uso</h2>
-<li><a href="https://docs.google.com/document/d/1jh5fe4xAIGNVqXpyw2NPkzztnhZWtP2NVW2bjO7seGY/edit?usp=sharing">Documentação projeto-1M1</li>
+<li><a href="https://docs.google.com/document/d/1IpcrWjUJRWp5rwmWBBKbLv1Qcyn674b2ANj1g_O4s2s/edit?usp=sharing">Documentação projeto-1M1</li>
 
 <h1>Exemplo Documentação</h1>
   <li><a href="">Documentação</li>
