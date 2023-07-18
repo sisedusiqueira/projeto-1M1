@@ -13,26 +13,26 @@ Será marcada uma data no mês de julho (provavelmente entre 21 e 26 de julho), 
 
 1. Objetivo:<br>
 
-Apresentar um projeto de ferramenta informacional (programa, software, site, aplicativo, plataforma, rede social etc.) que busque atender a alguma demanda educacional ou que tenha alguma relação com a educação ou com questões do processo de ensino-aprendizagem.
+- Apresentar um projeto de ferramenta informacional (programa, software, site, aplicativo, plataforma, rede social etc.) que busque atender a alguma demanda educacional ou que tenha alguma relação com a educação ou com questões do processo de ensino-aprendizagem.
 
 2. O que o projeto deve ter:<br>
 
-Definição do problema a ser abordado.<br>
-Soluções disponíveis: Verificar as soluções tecnológicas atualmente disponíveis, quais são suas potencialidades e seus limites.<br>
-Apresentação do conceito da proposta, destacando o que a ferramenta vai buscar resolver.<br>
-Apresentação dos requisitos do sistema e da modelagem em UML.<br>
-Interface gráfica do aplicativo.<br>
-Apresentação dos detalhes do ambiente de execução.<br>
+- Definição do problema a ser abordado.<br>
+- Soluções disponíveis: Verificar as soluções tecnológicas atualmente disponíveis, quais são suas potencialidades e seus limites.<br>
+- Apresentação do conceito da proposta, destacando o que a ferramenta vai buscar resolver.<br>
+- Apresentação dos requisitos do sistema e da modelagem em UML.<br>
+- Interface gráfica do aplicativo.<br>
+- Apresentação dos detalhes do ambiente de execução.<br>
 
 3. Critérios de avaliação em Tecnologia e Sociedade:<br>
 
 - O problema é significativo e está bem delimitado?<br>
-Como foi realizado o levantamento das soluções tecnológicas disponíveis?<br>
-Os limites e potencialidades das ferramentas atuais foram analisados?<br>
-Como a proposta lida com o problema?<br>
-Ela de fato resolve / ajuda a resolver o problema levantado?<br>
-A proposta leva em consideração questões éticas? Como ela lida com essas questões?<br>
-Quais os impactos sociais e educacionais dessa ferramenta?<br>
+- Como foi realizado o levantamento das soluções tecnológicas disponíveis?<br>
+- Os limites e potencialidades das ferramentas atuais foram analisados?<br>
+- Como a proposta lida com o problema?<br>
+- Ela de fato resolve / ajuda a resolver o problema levantado?<br>
+- A proposta leva em consideração questões éticas? Como ela lida com essas questões?<br>
+- Quais os impactos sociais e educacionais dessa ferramenta?<br>
 
 4. Critérios de avaliação em Administração de Sistemas Operacionais no Projeto integrador:<br>
 
