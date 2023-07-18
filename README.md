@@ -78,8 +78,3 @@ Dia 26 de Julho. Data da apresentação do trabalho pelos estudantes aos profess
   <li><a href="">Vídeo de Apresentação</li>
 <ul>
 
-<h1>Documentação para seguir como exemplo</h1>
-<ul>
-  <li><a href="">Documento</li>
-<ul>
-
