@@ -26,7 +26,7 @@ Apresentação dos detalhes do ambiente de execução.<br>
 
 3. Critérios de avaliação em Tecnologia e Sociedade:<br>
 
-O problema é significativo e está bem delimitado?<br>
+- O problema é significativo e está bem delimitado?<br>
 Como foi realizado o levantamento das soluções tecnológicas disponíveis?<br>
 Os limites e potencialidades das ferramentas atuais foram analisados?<br>
 Como a proposta lida com o problema?<br>
