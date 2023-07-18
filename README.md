@@ -4,11 +4,11 @@
 <p>
 Os componentes curriculares que participaram dessa avaliação:<br>
   
-- Administração de Sistemas Operacionais, prof. Luiz Aguiar<br>
-- Análise e Projeto de Sistemas, prof. Cristiano Santana<br>
-- Design Gráfico e Projeto de Interfaces, profa. Gizele Abdon<br>
-- Tecnologias Digitais na Educação, profa. Clara Casotti<br>
-- Tecnologia e Sociedade, prof. Pedro Isaac<br>
+- Administração de Sistemas Operacionais. Profº Luiz Aguiar<br>
+- Análise e Projeto de Sistemas. Profº Cristiano Santana<br>
+- Design Gráfico e Projeto de Interfaces. Profº Gizele Abdon<br>
+- Tecnologias Digitais na Educação. Profº Clara Casotti<br>
+- Tecnologia e Sociedade. Profº Pedro Isaac<br>
 
 Dia 26 de Julho. Data da apresentação do trabalho pelos estudantes aos professores.<br> Também deverá ser enviado em anexo o trabalho digital contendo os itens destacados no item 2 destas orientações.
 
