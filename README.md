@@ -65,9 +65,11 @@ Dia 26 de Julho. Data da apresentação do trabalho pelos estudantes aos profess
 
 <h2>Instruções de uso</h2>
 
+<h1>Exemplo Documentação</h1>
+  <li><a href="">Documentação</li>
+    
 <h1>Documentação do Projeto</h1>
 <ul>
-  <li><a href="">Documentação</li>
   <li><a href="">Objetivo</li>
   <li><a href="">Requisitos Funcionais e Não Funcionais</li>
   <li><a href="">Diagrama de Caso de Uso</li>
@@ -81,5 +83,4 @@ Dia 26 de Julho. Data da apresentação do trabalho pelos estudantes aos profess
 <h1>Vídeo Apresentação</h1>
   <li><a href="">Vídeo Apresentação</li>
 
-<h1>Exemplo Documentação</h1>
-  <li><a href="">Documentação</li>
+
