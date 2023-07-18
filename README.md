@@ -82,10 +82,7 @@ Sheila
 <ol>
 
 # Código
-<ul><li><a href="/README.md"> Código Fonte</li></ul>
 
 
-# Apresentação
-<ul><li><a href="">Vídeo Apresentação</li></ul>
 
 
