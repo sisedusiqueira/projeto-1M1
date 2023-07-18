@@ -51,11 +51,13 @@ Será marcada uma data no mês de julho (provavelmente entre 21 e 26 de julho), 
 <p>Uma solução para o registro e gerenciamento de número de ocorrências no IF... </p>
 
 <h2>integrantes</h2>
+<p>
 <ul>
   <li>Adriano</li>
   <li>Lizandra Siqueira dos Anjos</li>
   <li>Sheila</li>
 </ul>
+</p>
 
 <h2>Orientador</h2>
 <p>Luiz Henrique de Morais Aguiar</p>
@@ -63,6 +65,7 @@ Será marcada uma data no mês de julho (provavelmente entre 21 e 26 de julho), 
 <h2>Instruções de uso</h2>
 
 <h1>Documentação do Projeto</h1>
+<p>
 <ul>
   <li><a href="">Documentação</li>
   <li><a href="">Objetivo</li>
@@ -74,5 +77,5 @@ Será marcada uma data no mês de julho (provavelmente entre 21 e 26 de julho), 
   <li><a href="">Slide de Apresentação</li>
   <li><a href="">Vídeo de Apresentação</li>
 <ul>
-
+</p>
 
