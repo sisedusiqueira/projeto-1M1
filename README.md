@@ -73,10 +73,11 @@ Uma solução para registro e gerenciamento de ocorrências no seu IF. Registre 
 
 * 🚨ATENÇÃO: atente-se as validações de cadastro e login! <br>
 
-  <li><a href="https://docs.google.com/document/d/1IpcrWjUJRWp5rwmWBBKbLv1Qcyn674b2ANj1g_O4s2s/edit?usp=sharing">Documentação projeto-1M1</li>
+
 
 # Documentação do Projeto
   <ol>
+  <li><a href="https://docs.google.com/document/d/1IpcrWjUJRWp5rwmWBBKbLv1Qcyn674b2ANj1g_O4s2s/edit?usp=sharing">Documentação projeto-1M1</li>
   <li><a href="">Objetivo</li>
   <li><a href="">Requisitos Funcionais e Não Funcionais</li>
   <li><a href="">Diagrama de Caso de Uso</li>
@@ -86,4 +87,5 @@ Uma solução para registro e gerenciamento de ocorrências no seu IF. Registre 
   <li><a href="">Slide Apresentação</li>
 <ol>
 
-# Apresentação 
+
+# Apresentação
