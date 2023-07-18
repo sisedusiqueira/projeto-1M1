@@ -3,16 +3,13 @@
 <h1>Instruções para Trabalho</h1>
 <p>
 Os componentes curriculares que participarão dessa avaliação:<br><br>
-- Tecnologia e Sociedade, prof. Pedro Isaac<br>
-- Análise e Projeto de Sistemas, prof. Cristiano Santana<br>
-- Tecnologias Digitais na Educação, profa. Clara Casotti<br>
+  
 - Administração de Sistemas Operacionais, prof. Luiz Aguiar<br>
+- Análise e Projeto de Sistemas, prof. Cristiano Santana<br>
 - Design Gráfico e Projeto de Interfaces, profa. Gizele Abdon<br>
+- Tecnologias Digitais na Educação, profa. Clara Casotti<br>
+- Tecnologia e Sociedade, prof. Pedro Isaac<br>
 
-
-
-
-- 
 Dia 26 de Julho. Data da apresentação do trabalho pelos estudantes aos professores.<br> Também deverá ser enviado (anexado aqui) o trabalho contendo os itens destacados no item 2 dessas orientações.
 
 1. Objetivo:<br>
