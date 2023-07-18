@@ -17,8 +17,10 @@ Dia 26 de Julho. Data da apresentação do trabalho pelos estudantes aos profess
 - Apresentar um projeto de ferramenta informacional (programa, software, site, aplicativo, plataforma, rede social etc.) que busque atender a alguma demanda educacional ou que tenha alguma relação com a educação ou com questões do processo de ensino-aprendizagem.
 
 2. O que o projeto deve ter:<br>
+<ol>
+  <li>- Definição do problema a ser abordado.<br></li>
+</ol>
 
-- Definição do problema a ser abordado.<br>
 - Soluções disponíveis: Verificar as soluções tecnológicas atualmente disponíveis, quais são suas potencialidades e seus limites.<br>
 - Apresentação do conceito da proposta, destacando o que a ferramenta vai buscar resolver.<br>
 - Apresentação dos requisitos do sistema e da modelagem em UML.<br>
