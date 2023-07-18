@@ -46,8 +46,8 @@ Dia 26 de Julho. Data da apresentação do trabalho pelos estudantes aos profess
 <img 
 src="https://giphy.com/static/img/zoomies.gif" width="200">
 
-`Técnico em Desenvolvimento de Sistema Educacionais`
-`Projeto: Desenvolvimento de uma Aplicação Interativa`
+`Técnico em Desenvolvimento de Sistema Educacionais`<br>
+`Projeto: Desenvolvimento de uma Aplicação Interativa`<br>
 `1M1`
 
 Uma solução para registro e gerenciamento de ocorrências no seu IF. Registre e gerencie ocorrências do seu campus. Registre todas as ocorrências de manutenção, categorizando-as adequadamente. Identifique áreas onde você pode ajudar a reduzir o número de problemas no seu IF e faça registros de ocorrências, se necessário. Acompanhe sua ocorrência de forma eficiente.
