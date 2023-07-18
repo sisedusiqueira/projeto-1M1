@@ -53,7 +53,7 @@ src="https://media3.giphy.com/media/klES1W6eoE5k0xTPCk/200w.webp?cid=ecf05e47460
 
 `1M1`
 
-Uma solução para registro e gerenciamento de ocorrências no seu IF. Registre e gerencie ocorrências do seu campus. Registre todas as ocorrências de manutenção, categorizando-as adequadamente. Identifique áreas onde você pode ajudar a reduzir o número de problemas no seu IF e faça registros de ocorrências, se necessário. Acompanhe sua ocorrência de forma eficiente.
+Uma solução para registro e gerenciamento de ocorrências do seu IF. Registre e gerencie ocorrências do seu campus. Registre todas as ocorrências de manutenção, categorizando-as adequadamente. Identifique áreas onde você pode ajudar a reduzir o número de problemas no seu IF e faça registros de ocorrências, se necessário. Acompanhe sua ocorrência de forma eficiente.
 
 ## Integrantes
 
