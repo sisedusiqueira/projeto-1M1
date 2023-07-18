@@ -46,17 +46,19 @@ Dia 26 de Julho. Data da apresentação do trabalho pelos estudantes aos profess
 <img 
 src="https://giphy.com/static/img/zoomies.gif" width="200">
 
-`Técnico em Desenvolvimento de Sistema Educacionais`<br>
-`Projeto: Desenvolvimento de uma Aplicação Interativa`<br>
+`Técnico em Desenvolvimento de Sistema Educacionais`
+
+`Projeto: Desenvolvimento de uma Aplicação Interativa`
+
 `1M1`
 
 Uma solução para registro e gerenciamento de ocorrências no seu IF. Registre e gerencie ocorrências do seu campus. Registre todas as ocorrências de manutenção, categorizando-as adequadamente. Identifique áreas onde você pode ajudar a reduzir o número de problemas no seu IF e faça registros de ocorrências, se necessário. Acompanhe sua ocorrência de forma eficiente.
 
 ## Integrantes
 
-Adriano
-Lizandra Siqueira dos Anjos
-Sheila
+* Adriano
+* Lizandra Siqueira dos Anjos
+* Sheila
 
 
 ## Orientador
@@ -65,6 +67,12 @@ Sheila
 
 
 ## Instruções de utilização
+* `Acesse` http://notifica-001.com/
+* `Crie uma conta` com um `Email` ou `Senha` válidos.
+* Ou use o Email: teste@gmail.com senha: Teste123!.
+
+* 🚨ATENÇÃO: atente-se as validações de cadastro e login! <br>
+
   <li><a href="https://docs.google.com/document/d/1IpcrWjUJRWp5rwmWBBKbLv1Qcyn674b2ANj1g_O4s2s/edit?usp=sharing">Documentação projeto-1M1</li>
 
 # Documentação do Projeto
