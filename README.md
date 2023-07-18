@@ -45,7 +45,7 @@ Dia 26 de Julho. Data da apresentação do trabalho pelos estudantes aos profess
 # Aplicativo NotIFica
 
 <img 
-src="https://i.giphy.com/media/eKJebgUL2Ckrc5NKa7/giphy.webp" width="200">
+src="https://media3.giphy.com/media/klES1W6eoE5k0xTPCk/200w.webp?cid=ecf05e4746000rhtov6z3bq1b42utqdryy2inpk378u3f6ue&ep=v1_gifs_related&rid=200w.webp&ct=g" width="200">
 
 `Técnico em Desenvolvimento de Sistema Educacionais`
 
