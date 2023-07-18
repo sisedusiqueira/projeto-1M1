@@ -82,10 +82,10 @@ Sheila
 <ol>
 
 # Código
-  <li><a href="/README.md"> Código Fonte</li>
+<ol><li><a href="/README.md"> Código Fonte</li></ol>
 
 
 # Apresentação
-  <li><a href="">Vídeo Apresentação</li>
+<ol><li><a href="">Vídeo Apresentação</li></ol>
 
 
