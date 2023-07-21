@@ -1,11 +1,11 @@
-# Sistema de Emissão de Documentos Automatizada
+# Sistema de Emissão de Documentos Automatizado com Python
 
 <img 
 src="https://media3.giphy.com/media/klES1W6eoE5k0xTPCk/200w.webp?cid=ecf05e4746000rhtov6z3bq1b42utqdryy2inpk378u3f6ue&ep=v1_gifs_related&rid=200w.webp&ct=g" width="200">
 
 `Técnico em Desenvolvimento de Sistema Educacionais`
 
-`Projeto: Desenvolvimento de uma Aplicação Interativa`
+`Projeto: Desenvolvimento de Sistema de Emissão de Documentos Automatizado com Python`
 
 `1M1`
 
