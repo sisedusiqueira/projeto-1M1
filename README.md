@@ -47,7 +47,7 @@ Este projeto está licenciado sob a [MIT License](https://github.com/sisedusique
 
 ## Integrantes
 
-- Adriano
+- José Adriano Pereira Lima
 - Lizandra Siqueira dos Anjos
 - Sheila
 
