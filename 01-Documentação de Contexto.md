@@ -19,7 +19,7 @@ Dia 26 de Julho. Data da apresentação do trabalho pelos estudantes aos profess
 Também deverá ser enviado em anexo o trabalho digital contendo os itens destacados no item 2 destas orientações.
 
 
-# Objetivo:
+# Objetivo
 
 Apresentar um projeto de ferramenta informacional (programa, software, site, aplicativo, plataforma, rede social etc.) que busque atender a alguma demanda educacional ou que tenha alguma relação com a educação ou com questões do processo de ensino-aprendizagem.
 
@@ -38,7 +38,7 @@ Interface gráfica do aplicativo.
 Apresentação dos detalhes do ambiente de execução.
 
 
-# Critérios de avaliação em Tecnologia e Sociedade:
+# Critérios de avaliação em Tecnologia e Sociedade
 
 O problema é significativo e está bem delimitado?
 
@@ -55,7 +55,7 @@ A proposta leva em consideração questões éticas? Como ela lida com essas que
 Quais os impactos sociais e educacionais dessa ferramenta?
 
 
-# Critérios de avaliação em Administração de Sistemas Operacionais no Projeto integrador:
+# Critérios de avaliação em Administração de Sistemas Operacionais no Projeto integrador
 
 O software proposto irá executar em qual(is) Sistema(s) Operacional(is)? Por quê?
 
