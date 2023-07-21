@@ -1,11 +1,16 @@
+# projeto-1M1
 # Instruções para Trabalho
 
 Os componentes curriculares que participaram dessa avaliação:
 
 Administração de Sistemas Operacionais. Profº Luiz Aguiar
+
 Análise e Projeto de Sistemas. Profº Cristiano Santana
+
 Design Gráfico e Projeto de Interfaces. Profº Gizele Abdon
+
 Tecnologias Digitais na Educação. Profº Clara Casotti
+
 Tecnologia e Sociedade. Profº Pedro Isaac
 
 Dia 26 de Julho. Data da apresentação do trabalho pelos estudantes aos professores.
