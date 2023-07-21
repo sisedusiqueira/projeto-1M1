@@ -34,14 +34,13 @@ Uma solução para registro e gerenciamento de ocorrências do seu IF. Registre 
 
 # Documentação do Projeto
   <ol>
-  <li><a href="https://docs.google.com/document/d/1IpcrWjUJRWp5rwmWBBKbLv1Qcyn674b2ANj1g_O4s2s/edit?usp=sharing">Documentação projeto-1M1</li>
+  <li><a href="https://github.com/sisedusiqueira/projeto-1M1/blob/main/Documentacao.md">Documentação</li>
   <li><a href="">Requisitos Funcionais e Não Funcionais</li>
   <li><a href="">Diagrama de Caso de Uso</li>
   <li><a href="">Diagrama de Atividades</li>
   <li><a href="">Designer Gráfico - Layout</li>
   <li><a href="">Interface Gráfica</li>
   <li><a href="">Slide Apresentação</li>
-  <li><a href="">Referências</li>
 <ol>
 
 
