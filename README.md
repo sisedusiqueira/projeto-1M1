@@ -67,7 +67,7 @@ Este projeto está licenciado sob a [MIT License](https://github.com/sisedusique
 2. [Requisitos Funcionais e Não Funcionais]()
 3. [Diagrama de Caso de Uso]()
 4. [Diagrama de Atividades]()
-5. [UI UX Designer- Layout]()
+5. [Designer]()
 6. [Slide Apresentação]()
 
 
