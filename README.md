@@ -1,11 +1,12 @@
-# Sistema de Emissão de Documentos Automatizado 
+# EmissIFB 
+# Sistema de Emissão de Declarações Escolares
 
 <img 
 src="https://media3.giphy.com/media/klES1W6eoE5k0xTPCk/200w.webp?cid=ecf05e4746000rhtov6z3bq1b42utqdryy2inpk378u3f6ue&ep=v1_gifs_related&rid=200w.webp&ct=g" width="200">
 
 `Técnico em Desenvolvimento de Sistema Educacionais`
 
-`Projeto: Desenvolvimento de Sistema de Emissão de Documentos Automatizado com Python`
+`Projeto: Desenvolvimento de Sistema de Emissão de Declarações Escolares`
 
 `1M1`
 
@@ -41,11 +42,8 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas, envia
 Agradecemos a todos os envolvidos neste projeto, bem como ao Instituto Federal de Brasília, Campus São Sebastião, pela oportunidade de desenvolver esta solução. Esperamos que o EmissIFB traga benefícios significativos para a comunidade acadêmica, tornando a emissão de declarações escolares mais ágil e eficiente.
 
 **Licença:**
-Este projeto está licenciado sob a [inserir licença] (por exemplo, MIT License). Leia o arquivo LICENSE para obter mais informações.
+Este projeto está licenciado sob a MIT License. Leia o arquivo LICENSE para obter mais informações.
 
-*Obs: Certifique-se de inserir a licença adequada e quaisquer outros detalhes específicos do projeto antes de publicá-lo no GitHub.*
-
-Claro! Para que a formatação seja mantida ao ser transferida para o GitHub, usarei a formatação em Markdown. Aqui está o texto com a formatação em Markdown:
 
 ## Integrantes
 
