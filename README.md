@@ -29,7 +29,7 @@ Este projeto está licenciado sob a [MIT License](https://github.com/sisedusique
 
 - José Adriano Pereira Lima
 - Lizandra Siqueira dos Anjos
-- Sheila
+- Sheila Cristina da Rocha
 
 ## Orientador
 
