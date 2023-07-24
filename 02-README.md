@@ -43,14 +43,17 @@ Este projeto está licenciado sob a [MIT License](https://github.com/sisedusique
 - 🚨ATENÇÃO: atente-se às validações de cadastro e login!
 
 # Documentação do Projeto
-1. [Documentação](https://github.com/sisedusiqueira/projeto-1M1/blob/main/Documentacao.md)
-2. [Especificações de Requisitos]()
-3. [Diagrama de Caso de Uso]()
-4. [Diagrama de Atividades]()
-5. [Designer]()
-6. [Apresentação do Projeto]()
+1. [Documentação de contexto.md](https://github.com/sisedusiqueira/projeto-1M1/blob/main/Documentacao.md)
+2. [README.md]()
+3. [Diagrama de caso de uso.md]()
+4. [Especificacao de requisitos.md]()
+5. [Diagrama de atividades.md]()
+6. [Designer.md]()
+7. [Documentação do projeto.md]()
+8. [license.txt]()
 
 # Apresentação
 
+- [Video]()
 
 
