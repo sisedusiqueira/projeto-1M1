@@ -49,8 +49,8 @@ Este projeto está licenciado sob a [MIT License](https://github.com/sisedusique
 4. [Diagrama de atividades.md]()
 5. [Designer.md]()
 6. [Documentação do projeto.md]()
-[README.md]()
-[license.txt]()
+7. [README.md]()
+8. [license.txt]()
 
 # Apresentação
 
