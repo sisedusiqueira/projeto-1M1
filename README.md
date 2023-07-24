@@ -15,14 +15,12 @@ src="https://media3.giphy.com/media/klES1W6eoE5k0xTPCk/200w.webp?cid=ecf05e47460
 **Visão Geral:**
 Este projeto tem como objetivo desenvolver um Sistema Web/Aplicativo para automatizar a emissão de declarações escolares no Instituto Federal de Brasília, Campus São Sebastião. A solução visa simplificar o processo de obtenção de declarações pelos alunos e agilizar a gestão por parte da coordenação, garantindo a autenticidade e segurança dos documentos gerados.
 
-
+<br><br>
 **Contribuições e Feedback:**
 Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas, enviar sugestões ou enviar pull requests. Se encontrar algum problema ou tiver algum feedback, por favor, nos informe através das issues.
 
-
 **Agradecimentos:**
 Agradecemos a todos os envolvidos neste projeto, bem como ao Instituto Federal de Brasília, Campus São Sebastião, pela oportunidade de desenvolver esta solução. Esperamos que o EmissIFB traga benefícios significativos para a comunidade acadêmica, tornando a emissão de declarações escolares mais ágil e eficiente.
-
 
 **Licença:**
 Este projeto está licenciado sob a [MIT License](https://github.com/sisedusiqueira/projeto-1M1/blob/main/license.txt). Leia o arquivo LICENSE para obter mais informações.
