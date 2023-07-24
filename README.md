@@ -50,7 +50,7 @@ Este projeto está licenciado sob a [MIT License](https://github.com/sisedusique
 5. [Designer.md]()
 6. [Documentação do projeto.md]()
 7. [README.md]()
-8. [license.txt]()
+8. [license.txt](https://github.com/sisedusiqueira/projeto-1M1/blob/main/license.txt)
 
 # Apresentação
 
