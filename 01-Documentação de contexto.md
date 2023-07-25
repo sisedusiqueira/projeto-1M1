@@ -1,4 +1,4 @@
-# Instruções para Trabalho Final do 1ºMódulo de Sisedu
+# Instruções para Trabalho 
 
 Os componentes curriculares que participaram dessa avaliação:
 
