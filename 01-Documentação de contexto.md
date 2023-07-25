@@ -35,7 +35,7 @@ Apresentar um projeto de ferramenta informacional (programa, software, site, apl
 * A proposta leva em consideração questões éticas? Como ela lida com essas questões?
 * Quais os impactos sociais e educacionais dessa ferramenta?
 
-# Critérios de avaliação em Administração de Sistemas Operacionais no Projeto integrador
+# Critérios de avaliação em Administração de Sistemas Operacionais
 
 * O software proposto irá executar em qual(is) Sistema(s) Operacional(is)? Por quê?
 * Quais requisitos mínimos para o dispositivo executar o sistema de forma satisfatória?
