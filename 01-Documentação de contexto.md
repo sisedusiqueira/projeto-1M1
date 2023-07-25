@@ -4,7 +4,7 @@
 Os componentes curriculares que participaram dessa avaliação:
 
 
-Administração de Sistemas Operacionais. Profº Luiz Aguiar
+* Administração de Sistemas Operacionais. Profº Luiz Aguiar
 
 Análise e Projeto de Sistemas. Profº Cristiano Santana
 
