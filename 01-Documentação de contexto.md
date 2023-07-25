@@ -1,4 +1,3 @@
-# projeto-1M1
 # Instruções para Trabalho
 
 Os componentes curriculares que participaram dessa avaliação:
