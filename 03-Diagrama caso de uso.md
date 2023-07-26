@@ -110,6 +110,7 @@ casos_de_uso:
       - Aluno
         
     descrição: >
+
     
       O Aluno pode renovar sua matrícula para o próximo período letivo.
 
