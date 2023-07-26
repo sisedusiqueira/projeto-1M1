@@ -89,7 +89,7 @@ Apresentar um projeto de ferramenta informacional (programa, software, site, apl
 
 * O software proposto irá executar em qual(is) Sistema(s) Operacional(is)? Por quê?
 
-  O software proposto será desenvolvido para executar em diferentes sistemas operacionais, a fim de garantir a maior abrangência possível e atender a diversos perfis de usuários. A escolha dos sistemas operacionais suportados dependerá das tecnologias e linguagens de programação utilizadas no desenvolvimento do sistema.
+    O software proposto será desenvolvido para executar em diferentes sistemas operacionais, a fim de garantir a maior abrangência possível e atender a diversos perfis de usuários. A escolha dos sistemas operacionais suportados dependerá das tecnologias e linguagens de programação utilizadas no desenvolvimento do sistema.
 
   Alguns dos sistemas operacionais mais comuns em que o software poderá ser executado são:
 
