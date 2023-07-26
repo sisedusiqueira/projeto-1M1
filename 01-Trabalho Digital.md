@@ -100,7 +100,7 @@ Apresentar um projeto de ferramenta informacional (programa, software, site, apl
 
 3. Linux: O sistema também será desenvolvido de forma a ser executado em distribuições Linux populares, como Ubuntu, Fedora, e outras, visando atender aos usuários que preferem utilizar esse sistema operacional de código aberto.
 
-  A escolha de suportar diferentes sistemas operacionais busca garantir que o software seja acessível a um público mais amplo, independentemente das preferências individuais de sistema operacional. Dessa forma, os usuários poderão utilizar o software em seus dispositivos com sistemas operacionais diferentes, sem restrições significativas de compatibilidade. Além disso, essa abordagem pode ampliar a adoção do sistema em diferentes ambientes, como instituições educacionais, empresas e órgãos governamentais, que podem utilizar sistemas operacionais variados em suas operações.
+    A escolha de suportar diferentes sistemas operacionais busca garantir que o software seja acessível a um público mais amplo, independentemente das preferências individuais de sistema operacional. Dessa forma, os usuários poderão utilizar o software em seus dispositivos com sistemas operacionais diferentes, sem restrições significativas de compatibilidade. Além disso, essa abordagem pode ampliar a adoção do sistema em diferentes ambientes, como instituições educacionais, empresas e órgãos governamentais, que podem utilizar sistemas operacionais variados em suas operações.
 
 
 
