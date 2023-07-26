@@ -21,4 +21,4 @@
 4. RNF04: O tempo de resposta do sistema deve ser adequado para proporcionar uma experiência fluida aos usuários.
 5. RNF05: O sistema deve ser acessível, atendendo às diretrizes de acessibilidade para pessoas com deficiência.
 
-Esses são alguns dos requisitos funcionais e não funcionais com base no diagrama de caso de uso fornecido. É importante lembrar que os requisitos podem ser mais detalhados e refinados ao longo do processo de desenvolvimento do sistema, e é recomendado realizar uma análise mais aprofundada em conjunto com os stakeholders para garantir que todas as necessidades sejam atendidas.
+Esses são alguns dos requisitos funcionais e não funcionais. É importante lembrar que os requisitos podem ser mais detalhados e refinados ao longo do processo de desenvolvimento do sistema, e é recomendado realizar uma análise mais aprofundada em conjunto com os stakeholders para garantir que todas as necessidades sejam atendidas.
