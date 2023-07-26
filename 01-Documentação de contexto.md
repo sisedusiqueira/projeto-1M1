@@ -18,6 +18,7 @@ Apresentar um projeto de ferramenta informacional (programa, software, site, apl
 # O que o projeto deve ter:
 
 * Definição do problema a ser abordado.
+  
   O problema abordado é a ineficiência dos processos de registro acadêmico no Instituto Federal de Brasília - Campus São Sebastião (IFB - Campus São Sebastião). Os procedimentos manuais para o cadastro de atestados médicos, renovação de matrículas, emissão de diplomas e solicitações de documentos têm gerado demoras, erros e insatisfação entre os alunos e a equipe da secretaria. Há uma necessidade clara de aprimorar esses processos para garantir maior agilidade, precisão e qualidade no atendimento aos estudantes.
   
 * Soluções disponíveis: Verificar as soluções tecnológicas atualmente disponíveis, quais são suas potencialidades e seus limites.
