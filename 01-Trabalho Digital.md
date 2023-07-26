@@ -81,6 +81,19 @@ Apresentar um projeto de ferramenta informacional (programa, software, site, apl
 # Critérios de avaliação em Administração de Sistemas Operacionais
 
 * O software proposto irá executar em qual(is) Sistema(s) Operacional(is)? Por quê?
+
+  O software proposto será desenvolvido para executar em diferentes sistemas operacionais, a fim de garantir a maior abrangência possível e atender a diversos perfis de usuários. A escolha dos sistemas operacionais suportados dependerá das tecnologias e linguagens de programação utilizadas no desenvolvimento do sistema.
+
+  Alguns dos sistemas operacionais mais comuns em que o software poderá ser executado são:
+
+1. Windows: O sistema será compatível com as diferentes versões do Windows, como Windows 7, Windows 8, Windows 10, entre outras, uma vez que o Windows é amplamente utilizado em computadores pessoais e corporativos.
+
+2. macOS: O software poderá ser executado nos dispositivos da Apple que utilizam o sistema operacional macOS, como iMac e MacBook.
+
+3. Linux: O sistema também será desenvolvido de forma a ser executado em distribuições Linux populares, como Ubuntu, Fedora, e outras, visando atender aos usuários que preferem utilizar esse sistema operacional de código aberto.
+
+  A escolha de suportar diferentes sistemas operacionais busca garantir que o software seja acessível a um público mais amplo, independentemente das preferências individuais de sistema operacional. Dessa forma, os usuários poderão utilizar o software em seus dispositivos com sistemas operacionais diferentes, sem restrições significativas de compatibilidade. Além disso, essa abordagem pode ampliar a adoção do sistema em diferentes ambientes, como instituições educacionais, empresas e órgãos governamentais, que podem utilizar sistemas operacionais variados em suas operações.
+
 * Quais requisitos mínimos para o dispositivo executar o sistema de forma satisfatória?
 * Quanto espaço de armazenamento será necessário para cada registro do banco de dados (separado por entidade)?
 * Considere que cada caractere ocupa 1 Byte, cada nº inteiro ocupa 4 Bytes e cada nº real ocupa 8 Bytes.
