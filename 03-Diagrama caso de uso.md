@@ -78,6 +78,10 @@ Diagrama:
                                                  +-----------------------+
 ```
 
-No diagrama, os três perfis de acesso (Aluno, Funcionário da Secretaria e Administrador) têm casos de uso específicos relacionados às suas funcionalidades no sistema. O Aluno pode realizar várias ações, como solicitar declarações, renovar matrículas, trancar matrículas e emitir diplomas, além de realizar login e cadastrar-se no sistema. O Funcionário da Secretaria pode fazer login e gerenciar matrículas. O Administrador também pode fazer login e gerenciar permissões no sistema.
+No diagrama, os três perfis de acesso (Aluno, Funcionário da Secretaria e Administrador) têm casos de uso específicos relacionados às suas funcionalidades no sistema. 
+
+O Aluno pode realizar várias ações, como solicitar declarações, renovar matrículas, trancar matrículas e emitir diplomas, além de realizar login e cadastrar-se no sistema. 
+
+O Funcionário da Secretaria pode fazer login e gerenciar matrículas. O Administrador também pode fazer login e gerenciar permissões no sistema.
 
 Essas interações ilustram as principais funcionalidades do sistema de automação de documentos do Registro Acadêmico e como cada perfil de usuário pode interagir com o sistema.
