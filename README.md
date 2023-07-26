@@ -10,7 +10,7 @@ src="https://media3.giphy.com/media/klES1W6eoE5k0xTPCk/200w.webp?cid=ecf05e47460
 
 `1M1`
 
-**Descrição do Projeto: EmissIFB - Sistema de Emissão de Documentos para o Registro Acadêmico**
+**Descrição do Projeto: EmissIFB/RAIFC - Sistema de Emissão de Documentos para o Registro Acadêmico**
 
 **Visão Geral:**
 Este projeto tem como objetivo desenvolver um Sistema Web/Aplicativo para automatizar a emissão de declarações escolares no Instituto Federal de Brasília, Campus São Sebastião. A solução visa simplificar o processo de obtenção de declarações pelos alunos e agilizar a gestão por parte da coordenação, garantindo a autenticidade e segurança dos documentos gerados.
