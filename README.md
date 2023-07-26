@@ -1,4 +1,4 @@
-# RAIFC
+# Sistema RAIFC
 # Sistema de Automação de Documentos para o Registro Acadêmico do Instituto Federal de Brasília - Campus São Sebastião (IFB)
 
 <img 
