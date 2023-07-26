@@ -1,5 +1,5 @@
 # EmissIFB ou RAIFC
-# SISTEMA DE AUTOMAÇÃO DE DOCUMENTOS PARA O REGISTRO ACADÊMICO DO IFB CAMPUS SÃO SEBASTIÃO
+# Sistema de Automação de Documentos para o Registro Acadêmico do Instituto Federal de Brasília - Campus São Sebastião (IFB)
 
 <img 
 src="https://media3.giphy.com/media/klES1W6eoE5k0xTPCk/200w.webp?cid=ecf05e4746000rhtov6z3bq1b42utqdryy2inpk378u3f6ue&ep=v1_gifs_related&rid=200w.webp&ct=g" width="200">
