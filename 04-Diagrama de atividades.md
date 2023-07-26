@@ -3,8 +3,9 @@
 
 Diagrama de Atividades - Sistema de Automação de Documentos do Registro Acadêmico do IFB - Campus São Sebastião
 
-[Diagrama de Atividades](#)
+[Diagrama de Atividades](https://drive.google.com/file/d/1NxnoW_LCQJP8vk4AoCalUxeR91L2C52O/view?usp=sharing)
 
+![image](https://github.com/sisedusiqueira/projeto-1M1/assets/138258723/4640162e-b494-40af-8593-c2f640acf8ee)
 
 
 ```
