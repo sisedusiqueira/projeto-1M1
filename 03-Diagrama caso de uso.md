@@ -39,23 +39,33 @@ casos_de_uso:
       - Aluno
       - Funcionário da Secretaria
       - Administrador
+        
     descrição: >
+    
       Os atores Aluno, Funcionário da Secretaria e Administrador
       podem cadastrar suas informações no sistema.
 
   - nome: Login
+  - 
     atores:
+    
       - Aluno
       - Funcionário da Secretaria
       - Administrador
+      - 
     descrição: >
+
       Os atores Aluno, Funcionário da Secretaria e Administrador
       podem fazer login no sistema para acessar suas funcionalidades.
 
   - nome: Gerenciar Sistema
+  - 
     atores:
+    
       - Administrador
+      - 
     descrição: >
+
       O Administrador do sistema pode gerenciar o sistema,
       configurando suas opções e funcionalidades.
 
