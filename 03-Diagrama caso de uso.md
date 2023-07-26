@@ -31,8 +31,11 @@ Estamos empolgados com o potencial que esse Sistema de Automação de Documentos
 *Muito obrigado pela atenção de todos! Agora, estou disponível para responder a quaisquer perguntas ou dúvidas que vocês possam ter.*
 
 casos_de_uso:
+
   - nome: Cadastrar Usuário
+    
     atores:
+    
       - Aluno
       - Funcionário da Secretaria
       - Administrador
