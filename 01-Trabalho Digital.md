@@ -85,7 +85,6 @@ Apresentar um projeto de ferramenta informacional (programa, software, site, apl
 
 
 
-
 # Critérios de avaliação em Administração de Sistemas Operacionais
 
 * O software proposto irá executar em qual(is) Sistema(s) Operacional(is)? Por quê?
