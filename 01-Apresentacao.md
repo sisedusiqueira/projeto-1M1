@@ -16,7 +16,7 @@ No sistema de automação de documentos, os alunos terão acesso a uma série de
 *Parte 3 - Administração e Requisitos Não Funcionais*
 
 **Sheila:**
-Agora, vamos falar sobre a parte de administração do sistema. Os administradores terão acesso exclusivo para gerenciar permissões de acesso dos usuários e também poderão gerar relatórios com informações relevantes. Em relação aos requisitos não funcionais, o sistema foi projetado com uma interface gráfica intuitiva e responsiva, que se adapta a diferentes dispositivos. Além disso, garantimos a segurança dos dados dos usuários e buscamos uma boa performance para uma experiência fluida. Também levamos em consideração a acessibilidade, tornando o sistema disponível para todos, incluindo pessoas com deficiência.
+Agora, vamos falar sobre a parte de administração do sistema. Os administradores terão acesso exclusivo para gerenciar permissões de acesso dos usuários e também poderão gerar relatórios com informações relevantes. Em relação aos requisitos não funcionais, o sistema foi projetado com uma interface gráfica intuitiva e responsiva, que se adapta a diferentes dispositivos. Garantimos a segurança dos dados dos usuários e buscamos uma boa performance para uma experiência fluida. Também levamos em consideração a acessibilidade, tornando o sistema disponível para todos, incluindo pessoas com deficiência.
 
 *Parte 4 - Considerações Finais*
 
