@@ -41,8 +41,7 @@ Apresentar um projeto de ferramenta informacional (programa, software, site, apl
 
   O ambiente de execução do RAIFC será baseado em uma infraestrutura de servidor web e banco de dados. O aplicativo será desenvolvido em Python, utilizando frameworks como Django para a construção da interface web e gerenciamento das funcionalidades. O banco de dados será utilizado para armazenar os registros acadêmicos dos alunos e as informações do sistema. A plataforma será hospedada em servidores do IFB, garantindo a segurança e o acesso restrito aos dados.
 
-Com a implantação do sistema RAIFC, espera-se alcançar uma significativa melhoria nos processos de registro acadêmico do IFB - Campus São Sebastião, aumentando a satisfação dos usuários e a eficiência da secretaria. O uso de tecnologia adequada e a integração dos recursos do sistema contribuirão para uma gestão acadêmica mais ágil e efetiva, fortalecendo a excelência educacional da instituição.
-
+  Com a implantação do sistema RAIFC, espera-se alcançar uma significativa melhoria nos processos de registro acadêmico do IFB - Campus São Sebastião, aumentando a satisfação dos usuários e a eficiência da secretaria. O uso de tecnologia adequada e a integração dos recursos do sistema contribuirão para uma gestão acadêmica mais ágil e efetiva, fortalecendo a excelência educacional da instituição.
 
 
 # Critérios de avaliação em Tecnologia e Sociedade
