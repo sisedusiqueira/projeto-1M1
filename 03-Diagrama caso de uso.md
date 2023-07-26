@@ -7,8 +7,10 @@ Diagrama de Caso de Uso - Sistema de Automação de Documentos do Registro Acad�
 
 ![image](https://github.com/sisedusiqueira/projeto-1M1/assets/138258723/ff626f28-faa7-4e21-8c93-020db1399358)
 
-Aqui está o diagrama de caso de uso para o sistema de automação de documentos do Registro Acadêmico do IFB - Campus São Sebastião, com os perfis de aluno, administrador e secretaria:
 
+Aqui está o diagrama de caso de uso corrigido para o sistema de automação de documentos do Registro Acadêmico do IFB - Campus São Sebastião, com os perfis de aluno, administrador e funcionário da secretaria:
+
+```
 Diagrama de Caso de Uso: Automação de Documentos do Registro Acadêmico
 
 Perfis de Acesso:
@@ -74,3 +76,8 @@ Diagrama:
                                                  +-----------------------+
                                                  |     Sistema          |
                                                  +-----------------------+
+```
+
+Neste diagrama, os três perfis de acesso (Aluno, Funcionário da Secretaria e Administrador) têm casos de uso específicos relacionados às suas funcionalidades no sistema. O Aluno pode realizar várias ações, como solicitar declarações, renovar matrículas, trancar matrículas e emitir diplomas, além de realizar login e cadastrar-se no sistema. O Funcionário da Secretaria pode fazer login e gerenciar matrículas. O Administrador também pode fazer login e gerenciar permissões no sistema.
+
+Essas interações ilustram as principais funcionalidades do sistema de automação de documentos do Registro Acadêmico e como cada perfil de usuário pode interagir com o sistema.
