@@ -35,7 +35,7 @@ Os serviços disponibilizados pelo sistema foram identificados como casos de uso
 
 1. Login: Permite que os atores Aluno, Funcionário da Secretaria e Administrador acessem o sistema autenticando-se.
 2. Cadastro no Sistema (Aluno): Permite que o Aluno realize o seu cadastro no sistema, fornecendo suas informações pessoais e acadêmicas.
-3. Cadastro no Sistema (Funcionário da Secretaria): Permite que o Funcionário da Secretaria realize o seu cadastro no sistema, fornecendo suas informações de * funcionário.
+3. Cadastro no Sistema (Funcionário da Secretaria): Permite que o Funcionário da Secretaria realize o seu cadastro no sistema, fornecendo suas informações de funcionário.
 4. Cadastro no Sistema (Administrador): Permite que o Administrador do Sistema realize o seu cadastro no sistema, fornecendo suas informações de administrador.
 5. Cadastro de Atestados Médicos: Permite que o Aluno envie atestados médicos ao sistema, justificando ausências e solicitação de abono de faltas.
 6. Renovação de Matrículas: Permite que o Aluno renove sua matrícula para o próximo período letivo.
