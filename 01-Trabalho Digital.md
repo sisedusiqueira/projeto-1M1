@@ -128,7 +128,7 @@ Apresentar um projeto de ferramenta informacional (programa, software, site, apl
 
 * Quanto espaço de armazenamento será necessário para cada registro do banco de dados (separado por entidade)?
 
-Para calcular o espaço de armazenamento necessário para cada registro do banco de dados, é preciso levar em consideração os campos presentes em cada entidade e o tamanho dos dados que serão armazenados em cada campo. Considerando que cada caractere ocupa 1 Byte, cada número inteiro ocupa 4 Bytes e cada número real ocupa 8 Bytes, podemos fazer o seguinte cálculo:
+  Para calcular o espaço de armazenamento necessário para cada registro do banco de dados, é preciso levar em consideração os campos presentes em cada entidade e o tamanho dos dados que serão armazenados em cada campo. Considerando que cada caractere ocupa 1 Byte, cada número inteiro ocupa 4 Bytes e cada número real ocupa 8 Bytes, podemos fazer o seguinte cálculo:
 
 1. Entidade: Aluno
    - Campo: Nome (string com 50 caracteres) -> Espaço necessário: 50 Bytes
@@ -146,7 +146,7 @@ Para calcular o espaço de armazenamento necessário para cada registro do banco
    - Campo: Status (string com 20 caracteres) -> Espaço necessário: 20 Bytes
    - Espaço total necessário para cada registro da Matrícula: 10 Bytes + 20 Bytes = 30 Bytes
 
-Esses são exemplos hipotéticos de entidades e campos em um banco de dados. É importante considerar todos os campos presentes em cada entidade e calcular o espaço de armazenamento necessário para cada registro individualmente. Dessa forma, podemos dimensionar adequadamente o espaço de armazenamento total necessário para o banco de dados do sistema.
+  Esses são exemplos hipotéticos de entidades e campos em um banco de dados. É importante considerar todos os campos presentes em cada entidade e calcular o espaço de armazenamento necessário para cada registro individualmente. Dessa forma, podemos dimensionar adequadamente o espaço de armazenamento total necessário para o banco de dados do sistema.
 
 
 
