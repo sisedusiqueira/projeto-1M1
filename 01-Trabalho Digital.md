@@ -152,4 +152,29 @@ Esses são exemplos hipotéticos de entidades e campos em um banco de dados. É 
 
 * Considere que cada caractere ocupa 1 Byte, cada nº inteiro ocupa 4 Bytes e cada nº real ocupa 8 Bytes.
 
+  Considerando que cada caractere ocupa 1 Byte, cada número inteiro ocupa 4 Bytes e cada número real ocupa 8 Bytes, podemos calcular o espaço de armazenamento necessário para cada registro do banco de dados, separado por entidade, da seguinte forma:
+
+1. Para armazenar um campo que contenha uma string de caracteres:
+   - Exemplo: Nome do aluno (com 50 caracteres)
+   Espaço necessário = 50 Bytes
+
+2. Para armazenar um campo que contenha um número inteiro:
+   - Exemplo: Idade do aluno (um número inteiro)
+   Espaço necessário = 4 Bytes
+
+3. Para armazenar um campo que contenha um número real:
+   - Exemplo: Nota do aluno em uma disciplina (número real)
+   Espaço necessário = 8 Bytes
+
+  Assim, para cada registro que contenha campos com strings, números inteiros e números reais, o espaço total necessário para armazenamento pode ser calculado somando-se os espaços individuais de cada campo.
+
+Por exemplo, se um registro contém:
+- Um campo com o nome do aluno (50 caracteres)
+- Um campo com a idade do aluno (número inteiro)
+- Um campo com a nota do aluno em uma disciplina (número real)
+
+  O espaço total necessário para esse registro seria:
+50 Bytes (nome do aluno) + 4 Bytes (idade do aluno) + 8 Bytes (nota do aluno) = 62 Bytes.
+
+  É importante realizar esse cálculo para cada entidade e seus campos no banco de dados, a fim de dimensionar adequadamente o espaço de armazenamento necessário para o sistema. Isso garantirá que o banco de dados seja capaz de acomodar todas as informações de forma eficiente.
 
