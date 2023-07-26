@@ -12,6 +12,8 @@ Apresentação do trabalho pelos estudantes aos professores: Dia 26 de Julho.
 
 Deverá ser enviado em anexo o trabalho digital contendo os itens destacados no item 2 destas orientações.
 
+* [Trabalho Digital]()
+
 # Objetivo
 
 Apresentar um projeto de ferramenta informacional (programa, software, site, aplicativo, plataforma, rede social etc.) que busque atender a alguma demanda educacional ou que tenha alguma relação com a educação ou com questões do processo de ensino-aprendizagem.
