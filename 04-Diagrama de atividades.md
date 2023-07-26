@@ -3,7 +3,7 @@
 
 [Diagrama de Atividades](#)
 
-Aqui está o diagrama de atividades com base nas informações fornecidas:
+
 
 ```
 Diagrama de Atividades: Automação de Documentos do Registro Acadêmico
