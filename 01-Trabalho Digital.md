@@ -1,4 +1,5 @@
-# Instruções para Trabalho 
+# Trabalho Digital
+* [Trabalho Digital]()
 
 Os componentes curriculares que participaram dessa avaliação:
 
@@ -11,8 +12,6 @@ Os componentes curriculares que participaram dessa avaliação:
 Apresentação do trabalho pelos estudantes aos professores: Dia 26 de Julho. 
 
 Deverá ser enviado em anexo o trabalho digital contendo os itens destacados no item 2 destas orientações.
-
-* [Trabalho Digital]()
 
 
 
