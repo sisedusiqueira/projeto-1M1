@@ -1,14 +1,5 @@
 # Trabalho Digital
 * [Trabalho Digital](https://docs.google.com/document/d/1PkeDwi_QjPT2k3zmsVceqZ2kGm2nU3fM/edit)
-  
-Os componentes curriculares que participaram dessa avaliação:
-
-* Administração de Sistemas Operacionais. Profº Luiz Aguiar
-* Análise e Projeto de Sistemas. Profº Cristiano Santana
-* Design Gráfico e Projeto de Interfaces. Profº Gizele Abdon
-* Tecnologias Digitais na Educação. Profº Clara Casotti
-* Tecnologia e Sociedade. Profº Pedro Isaac
-
 
 # Objetivo
 
