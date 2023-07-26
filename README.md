@@ -51,7 +51,7 @@ Este projeto está licenciado sob a [MIT License](https://github.com/sisedusique
 3. [Diagrama de caso de uso.md](https://github.com/sisedusiqueira/projeto-1M1/blob/main/02-Diagrama%20de%20caso%20de%20uso.md)
 4. [Diagrama de atividades.md](https://github.com/sisedusiqueira/projeto-1M1/blob/main/04-Diagrama%20de%20atividades.md)
 5. [Interface Gráfica.md](https://github.com/sisedusiqueira/projeto-1M1/blob/main/05-Designer.md)
-6. [Apresentacao](https://github.com/sisedusiqueira/projeto-1M1/blob/main/06-Apresentacao.md)
+6. [Apresentacao.md](https://github.com/sisedusiqueira/projeto-1M1/blob/main/06-Apresentacao.md)
 7. [README.md](https://github.com/sisedusiqueira/projeto-1M1/blob/main/README.md)
 8. [license.txt](https://github.com/sisedusiqueira/projeto-1M1/blob/main/license.txt)
 
