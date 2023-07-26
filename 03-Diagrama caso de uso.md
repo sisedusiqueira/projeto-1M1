@@ -33,19 +33,19 @@ Neste projeto foram definidos três perfis de acesso (atores):
 
 Os serviços disponibilizados pelo sistema foram identificados como casos de uso e são os seguintes:
 
-* 1. Login: Permite que os atores Aluno, Funcionário da Secretaria e Administrador acessem o sistema autenticando-se.
-* 2. Cadastro no Sistema (Aluno): Permite que o Aluno realize o seu cadastro no sistema, fornecendo suas informações pessoais e acadêmicas.
-* 3. Cadastro no Sistema (Funcionário da Secretaria): Permite que o Funcionário da Secretaria realize o seu cadastro no sistema, fornecendo suas informações de * funcionário.
-* 4. Cadastro no Sistema (Administrador): Permite que o Administrador do Sistema realize o seu cadastro no sistema, fornecendo suas informações de administrador.
-* 5. Cadastro de Atestados Médicos: Permite que o Aluno envie atestados médicos ao sistema, justificando ausências e solicitação de abono de faltas.
-* 6. Renovação de Matrículas: Permite que o Aluno renove sua matrícula para o próximo período letivo.
-* 7. Emissão de Diplomas: Permite que o Aluno solicite a emissão do diploma após conclusão do curso.
-* 8. Assinatura - Contrato de Estágio: Permite que o Aluno assine o contrato de estágio, caso seja necessário para o curso.
-* 9. Solicitar Declarações ou Histórico: Permite que o Aluno solicite declarações ou histórico acadêmico.
-* 10. Trancamento: Permite que o Aluno solicite o trancamento temporário de sua matrícula.
-* 11. Analisar Solicitações: Permite que o Funcionário da Secretaria analise as solicitações feitas pelos Alunos.
-* 12. Gerenciar Matrículas: Permite que o Funcionário da Secretaria gerencie as matrículas dos Alunos, realizando matrículas, transferências, trancamentos, entre outras ações.
-* 13. Emissão de Documentos: Permite que o Funcionário da Secretaria emita documentos acadêmicos, como declarações, históricos, diplomas, entre outros.
+1. Login: Permite que os atores Aluno, Funcionário da Secretaria e Administrador acessem o sistema autenticando-se.
+2. Cadastro no Sistema (Aluno): Permite que o Aluno realize o seu cadastro no sistema, fornecendo suas informações pessoais e acadêmicas.
+3. Cadastro no Sistema (Funcionário da Secretaria): Permite que o Funcionário da Secretaria realize o seu cadastro no sistema, fornecendo suas informações de * funcionário.
+4. Cadastro no Sistema (Administrador): Permite que o Administrador do Sistema realize o seu cadastro no sistema, fornecendo suas informações de administrador.
+5. Cadastro de Atestados Médicos: Permite que o Aluno envie atestados médicos ao sistema, justificando ausências e solicitação de abono de faltas.
+6. Renovação de Matrículas: Permite que o Aluno renove sua matrícula para o próximo período letivo.
+7. Emissão de Diplomas: Permite que o Aluno solicite a emissão do diploma após conclusão do curso.
+8. Assinatura - Contrato de Estágio: Permite que o Aluno assine o contrato de estágio, caso seja necessário para o curso.
+9. Solicitar Declarações ou Histórico: Permite que o Aluno solicite declarações ou histórico acadêmico.
+10. Trancamento: Permite que o Aluno solicite o trancamento temporário de sua matrícula.
+11. Analisar Solicitações: Permite que o Funcionário da Secretaria analise as solicitações feitas pelos Alunos.
+12. Gerenciar Matrículas: Permite que o Funcionário da Secretaria gerencie as matrículas dos Alunos, realizando matrículas, transferências, trancamentos, entre outras ações.
+13. Emissão de Documentos: Permite que o Funcionário da Secretaria emita documentos acadêmicos, como declarações, históricos, diplomas, entre outros.
 
 As associações entre atores e casos de uso definem quais atores têm permissão para executar cada caso de uso específico. Por exemplo, o ator Aluno tem permissão para executar casos de uso relacionados ao cadastro, solicitações de documentos e gerenciamento de matrículas. O ator Funcionário da Secretaria tem permissão para analisar solicitações e gerenciar matrículas. O ator Administrador tem acesso ao gerenciamento do sistema.
 
