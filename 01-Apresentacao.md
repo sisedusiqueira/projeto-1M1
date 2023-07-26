@@ -9,9 +9,8 @@
 
 * Sheila 
 
-**Objetivo do Sistema de Automação de Documentos para o Registro Acadêmico do IFB - Campus São Sebastião:**
 
-O principal objetivo do Sistema de Automação de Documentos é otimizar e agilizar o processo de emissão, solicitação e gerenciamento de documentos acadêmicos no Registro Acadêmico do Instituto Federal de Brasília - Campus São Sebastião. A implementação desse sistema trará diversos benefícios para nossa instituição, tais como:
+  O principal objetivo do Sistema de Automação de Documentos é otimizar e agilizar o processo de emissão, solicitação e gerenciamento de documentos acadêmicos no Registro Acadêmico do Instituto Federal de Brasília - Campus São Sebastião. A implementação desse sistema trará diversos benefícios para nossa instituição, tais como:
 
 1. **Eficiência Administrativa:** O sistema proporcionará maior eficiência na gestão das solicitações e documentos acadêmicos, reduzindo o tempo e esforço necessários para processar e acompanhar manualmente cada requisição.
 
@@ -29,4 +28,4 @@ O principal objetivo do Sistema de Automação de Documentos é otimizar e agili
 
 8. **Acompanhamento de Documentos em Tempo Real:** Alunos e funcionários poderão acompanhar o status de seus documentos em tempo real, evitando incertezas e proporcionando uma experiência mais satisfatória.
 
-Em suma, o Sistema de Automação de Documentos visa trazer maior eficiência, transparência e comodidade para o Registro Acadêmico do IFB - Campus São Sebastião, melhorando a experiência acadêmica dos alunos e a rotina administrativa da equipe. Acreditamos que essa solução trará resultados significativos para nossa instituição, alinhada com os avanços tecnológicos e as necessidades do nosso corpo discente e docente.
+  O Sistema de Automação de Documentos visa trazer maior eficiência, transparência e comodidade para o Registro Acadêmico do IFB - Campus São Sebastião, melhorando a experiência acadêmica dos alunos e a rotina administrativa da equipe. Acreditamos que essa solução trará resultados significativos para nossa instituição, alinhada com os avanços tecnológicos e as necessidades do nosso corpo discente e docente.
