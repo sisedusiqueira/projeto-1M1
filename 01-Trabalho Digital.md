@@ -10,7 +10,6 @@ Os componentes curriculares que participaram dessa avaliação:
 * Tecnologia e Sociedade. Profº Pedro Isaac
 
 Apresentação do trabalho pelos estudantes aos professores: Dia 26 de Julho. 
-
 Deverá ser enviado em anexo o trabalho digital contendo os itens destacados no item 2 destas orientações.
 
 
