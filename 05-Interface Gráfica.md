@@ -11,3 +11,5 @@
 
 ![image](https://github.com/sisedusiqueira/projeto-1M1/assets/138258723/dee9fdfb-ee06-4ede-b10e-85af022e4418)
 
+
+Obs.: O restante das telas será implementado.
