@@ -24,93 +24,28 @@ Hoje, tenho o prazer de apresentar a vocês o nosso projeto de Sistema de Automa
 - Para os alunos, o sistema oferece maior comodidade ao possibilitar a solicitação de documentos de forma ágil e online, reduzindo a necessidade de deslocamento físico.
 - Para a equipe da Secretaria, a automação dos processos agiliza a análise e o gerenciamento das solicitações dos alunos, melhorando a eficiência administrativa.
 - A plataforma também permite que os administradores tenham uma visão geral das atividades do sistema, facilitando o monitoramento e controle do processo.
+- 
 
-**Conclusão:**
-Estamos empolgados com o potencial que esse Sistema de Automação de Documentos trará para o Registro Acadêmico do IFB - Campus São Sebastião. Acreditamos que a sua implementação trará benefícios significativos para nossos alunos, equipe administrativa e o Instituto como um todo. Esperamos contar com o apoio da banca de professores para seguir em frente com o desenvolvimento desse projeto e, em breve, tornar essa solução uma realidade para a nossa instituição.
+Neste projeto de automação de documentos do Registro Acadêmico do IFB - Campus São Sebastião, foram definidos três perfis de acesso (atores): Aluno, Funcionário da Secretaria e Administrador do Sistema.
 
-*Muito obrigado pela atenção de todos! Agora, estou disponível para responder a quaisquer perguntas ou dúvidas que vocês possam ter.*
+Os serviços disponibilizados pelo sistema foram identificados como casos de uso e são os seguintes:
+1. Login: Permite que os atores Aluno, Funcionário da Secretaria e Administrador acessem o sistema autenticando-se.
+2. Cadastro no Sistema (Aluno): Permite que o Aluno realize o seu cadastro no sistema, fornecendo suas informações pessoais e acadêmicas.
+3. Cadastro no Sistema (Funcionário da Secretaria): Permite que o Funcionário da Secretaria realize o seu cadastro no sistema, fornecendo suas informações de funcionário.
+4. Cadastro no Sistema (Administrador): Permite que o Administrador do Sistema realize o seu cadastro no sistema, fornecendo suas informações de administrador.
+5. Cadastro de Atestados Médicos: Permite que o Aluno envie atestados médicos ao sistema, justificando ausências e solicitação de abono de faltas.
+6. Renovação de Matrículas: Permite que o Aluno renove sua matrícula para o próximo período letivo.
+7. Emissão de Diplomas: Permite que o Aluno solicite a emissão do diploma após conclusão do curso.
+8. Assinatura - Contrato de Estágio: Permite que o Aluno assine o contrato de estágio, caso seja necessário para o curso.
+9. Solicitar Declarações ou Histórico: Permite que o Aluno solicite declarações ou histórico acadêmico.
+10. Trancamento: Permite que o Aluno solicite o trancamento temporário de sua matrícula.
+11. Analisar Solicitações: Permite que o Funcionário da Secretaria analise as solicitações feitas pelos Alunos.
+12. Gerenciar Matrículas: Permite que o Funcionário da Secretaria gerencie as matrículas dos Alunos, realizando matrículas, transferências, trancamentos, entre outras ações.
+13. Emissão de Documentos: Permite que o Funcionário da Secretaria emita documentos acadêmicos, como declarações, históricos, diplomas, entre outros.
 
-casos_de_uso:
+As associações entre atores e casos de uso definem quais atores têm permissão para executar cada caso de uso específico. Por exemplo, o ator Aluno tem permissão para executar casos de uso relacionados ao cadastro, solicitações de documentos e gerenciamento de matrículas. O ator Funcionário da Secretaria tem permissão para analisar solicitações e gerenciar matrículas. O ator Administrador tem acesso ao gerenciamento do sistema.
 
-  - nome: Cadastrar Usuário
-    
-    atores:
-    
-      - Aluno
-      - Funcionário da Secretaria
-      - Administrador
-    
-    descrição: >
-    
-      Os atores Aluno, Funcionário da Secretaria e Administrador
-      podem cadastrar suas informações no sistema.
+O diagrama de interação detalha como os atores interagem com os casos de uso do sistema. Cada ator tem sua própria interação com os casos de uso pertinentes ao seu perfil de acesso. O fluxo de interação pode envolver a entrada de informações, realização de ações específicas e visualização de resultados.
 
-  - nome: Login
-    
-    atores:
-    
-      - Aluno
-      - Funcionário da Secretaria
-      - Administrador
-        
-    descrição: >
-
-      Os atores Aluno, Funcionário da Secretaria e Administrador
-      podem fazer login no sistema para acessar suas funcionalidades.
-
-  - nome: Gerenciar Sistema
-    
-    atores:
-    
-      - Administrador
-        
-    descrição: >
-
-      O Administrador do sistema pode gerenciar o sistema,
-      configurando suas opções e funcionalidades.
-
-  - nome: Gerenciar Matrículas
-    
-    atores:
-    
-      - Funcionário da Secretaria
-        
-    descrição: >
-    
-      O Funcionário da Secretaria pode gerenciar as matrículas dos alunos,
-      realizando matrículas, transferências e trancamentos.
-
-
-  - nome: Solicitar Declaração
-    
-    atores:
-    
-      - Aluno
-        
-    descrição: >
-    
-      O Aluno pode solicitar declarações ou histórico acadêmico.
-
-
-  - nome: Solicitar Diploma
-    
-    atores:
-    
-      - Aluno
-        
-    descrição: >
-
-      O Aluno pode solicitar a emissão do diploma após conclusão do curso.
-
-
-  - nome: Renovação de Matrícula
-    
-    atores:
-    
-      - Aluno
-        
-    descrição: >
-
-    
-      O Aluno pode renovar sua matrícula para o próximo período letivo.
+É importante ressaltar que o diagrama de interação é uma representação gráfica simplificada das interações, e a implementação real do sistema pode envolver mais detalhes e etapas específicas para cada caso de uso.
 
