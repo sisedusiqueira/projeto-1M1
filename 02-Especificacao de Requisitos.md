@@ -1,31 +1,24 @@
 # Especificação de Requisitos
 
+**Requisitos Funcionais:**
+1. RF01: O sistema deve permitir que o aluno realize o login no sistema.
+2. RF02: O sistema deve permitir que o aluno cadastre sua conta no sistema.
+3. RF03: O sistema deve permitir que o aluno reseta sua senha em caso de esquecimento.
+4. RF04: O sistema deve permitir que o aluno solicite declarações acadêmicas.
+5. RF05: O sistema deve permitir que o aluno solicite renovação de matrícula.
+6. RF06: O sistema deve permitir que o aluno solicite trancamento de matrícula.
+7. RF07: O sistema deve permitir que o aluno solicite a emissão de diplomas.
+8. RF08: O sistema deve permitir que o funcionário da secretaria realize o login no sistema.
+9. RF09: O sistema deve permitir que o funcionário da secretaria gerencie as matrículas dos alunos.
+10. RF10: O sistema deve permitir que o administrador do sistema realize o login no sistema.
+11. RF11: O sistema deve permitir que o administrador do sistema gerencie as permissões dos usuários.
+12. RF12: O sistema deve permitir que o administrador do sistema emita relatórios.
 
-O Sistema de Automação de Documentos (RAIFC) tem como objetivo atender a toda a comunidade acadêmica do Instituto Federal de Brasília - Campus São Sebastião (IFB). Ele engloba alunos, funcionários da secretaria e administradores, proporcionando uma solução abrangente para a gestão de documentos acadêmicos.
+**Requisitos Não Funcionais:**
+1. RNF01: A interface gráfica do sistema deve ser intuitiva e de fácil utilização.
+2. RNF02: O sistema deve ser responsivo e se adaptar a diferentes dispositivos e tamanhos de tela.
+3. RNF03: O sistema deve ser seguro, garantindo a confidencialidade e integridade dos dados dos usuários.
+4. RNF04: O tempo de resposta do sistema deve ser adequado para proporcionar uma experiência fluida aos usuários.
+5. RNF05: O sistema deve ser acessível, atendendo às diretrizes de acessibilidade para pessoas com deficiência.
 
-
-# Requisitos Funcionais; 
-
-1. Cadastro de Alunos: O sistema deve permitir o cadastro completo dos alunos, incluindo informações pessoais e acadêmicas.
-
-2. Solicitação de Documentos: Os alunos poderão realizar solicitações de documentos acadêmicos, como declarações, históricos e diplomas, através da plataforma.
-
-3. Análise e Aprovação de Solicitações: Os funcionários da secretaria terão acesso a uma interface que permite analisar e aprovar as solicitações de documentos.
-
-4. Emissão Automatizada de Documentos: O sistema deve gerar automaticamente os documentos solicitados pelos alunos, garantindo sua veracidade e rapidez.
-
-5. Controle de Status de Solicitações: Alunos e funcionários da secretaria poderão acompanhar o status das solicitações, desde a requisição até a emissão dos documentos.
-
-
-# Requisitos Não Funcionais;
-
-1. Desempenho: O sistema deve responder rapidamente às solicitações dos usuários, mesmo em momentos de alta demanda.
-
-2. Usabilidade: A interface do RAIFC deve ser intuitiva e de fácil navegação, visando uma experiência agradável para os usuários.
-
-3. Segurança: Mecanismos de segurança robustos devem ser implementados para proteger os dados pessoais dos alunos e a integridade dos documentos.
-
-4. Confiabilidade: O sistema deve ser confiável e livre de erros, garantindo a precisão na emissão dos documentos acadêmicos.
-
-5. Manutenção: A arquitetura do sistema deve ser organizada e de fácil manutenção, permitindo atualizações e correções eficientes.
-
+Esses são alguns dos requisitos funcionais e não funcionais com base no diagrama de caso de uso fornecido. É importante lembrar que os requisitos podem ser mais detalhados e refinados ao longo do processo de desenvolvimento do sistema, e é recomendado realizar uma análise mais aprofundada em conjunto com os stakeholders para garantir que todas as necessidades sejam atendidas.
