@@ -2,7 +2,7 @@
 
 **Apresentação dos Requisitos do Sistema de Automação de Documentos**
 
-Requisitos do sistema de automação de documentos do nosso Instituto Federal - Campus São Sebastião. Esse sistema foi projetado para simplificar e agilizar os processos acadêmicos, tornando mais fácil o acesso a documentos e serviços importantes para alunos, funcionários da secretaria e administradores de sistema.
+Requisitos do sistema de automação de documentos do Instituto Federal - Campus São Sebastião. Esse sistema foi projetado para simplificar e agilizar os processos acadêmicos, tornando mais fácil o acesso a documentos e serviços importantes para alunos, funcionários da secretaria e administradores de sistema.
 
 **Requisitos Funcionais:**
 1. RF01: O sistema deve permitir que o aluno realize o login no sistema.
