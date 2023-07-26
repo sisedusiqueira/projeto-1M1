@@ -56,7 +56,7 @@ Apresentar um projeto de ferramenta informacional (programa, software, site, apl
 # Critérios de avaliação em Tecnologia e Sociedade
 
 * O problema é significativo e está bem delimitado?
-  
+
   Sim, o problema de ineficiência nos processos de registro acadêmico do IFB - Campus São Sebastião é significativo, pois impacta diretamente a experiência dos alunos e a eficiência da secretaria. O problema foi claramente identificado e delimitado, abrangendo questões como demoras, erros e insatisfação no atendimento aos estudantes.
 
 * Como foi realizado o levantamento das soluções tecnológicas disponíveis?
