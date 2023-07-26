@@ -1,3 +1,6 @@
+# Especificação de REquisitos
+
+
 O Sistema de Automação de Documentos (RAIFC) tem como objetivo atender a toda a comunidade acadêmica do Instituto Federal de Brasília - Campus São Sebastião (IFB). Ele engloba alunos, funcionários da secretaria e administradores, proporcionando uma solução abrangente para a gestão de documentos acadêmicos.
 
 
