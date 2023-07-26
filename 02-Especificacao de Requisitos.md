@@ -1,5 +1,7 @@
 O Sistema de Automação de Documentos (RAIFC) tem como objetivo atender a toda a comunidade acadêmica do Instituto Federal de Brasília - Campus São Sebastião (IFB). Ele engloba alunos, funcionários da secretaria e administradores, proporcionando uma solução abrangente para a gestão de documentos acadêmicos.
-Requisitos Funcionais; 
+
+
+# Requisitos Funcionais; 
 
 1. Cadastro de Alunos: O sistema deve permitir o cadastro completo dos alunos, incluindo informações pessoais e acadêmicas.
 
@@ -10,7 +12,9 @@ Requisitos Funcionais;
 4. Emissão Automatizada de Documentos: O sistema deve gerar automaticamente os documentos solicitados pelos alunos, garantindo sua veracidade e rapidez.
 
 5. Controle de Status de Solicitações: Alunos e funcionários da secretaria poderão acompanhar o status das solicitações, desde a requisição até a emissão dos documentos.
-Requisitos Não Funcionais;
+
+
+# Requisitos Não Funcionais;
 
 1. Desempenho: O sistema deve responder rapidamente às solicitações dos usuários, mesmo em momentos de alta demanda.
 
