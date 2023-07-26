@@ -48,7 +48,7 @@ Iniciar -> Realizar Login -> Verificar Perfil do Usuário
         Administrador -> Gerenciar Permissões -> Encerrar
 ```
 
-Neste diagrama de atividades, representamos o fluxo geral das atividades do sistema de automação de documentos do Registro Acadêmico. A atividade "Iniciar" dá início ao processo, seguido pela atividade "Realizar Login", onde o usuário deve fornecer suas credenciais para acessar o sistema. Em seguida, a atividade "Verificar Perfil do Usuário" determina se o usuário é um Aluno, Funcionário da Secretaria ou Administrador.
+O diagrama de atividades, representa o fluxo geral das atividades do sistema de automação de documentos do Registro Acadêmico. A atividade "Iniciar" dá início ao processo, seguido pela atividade "Realizar Login", onde o usuário deve fornecer suas credenciais para acessar o sistema. Em seguida, a atividade "Verificar Perfil do Usuário" determina se o usuário é um Aluno, Funcionário da Secretaria ou Administrador.
 
 Dependendo do perfil do usuário, o fluxo seguirá para as atividades específicas para cada perfil. O Aluno pode realizar atividades como cadastrar-se no sistema, resetar senha, gerenciar solicitações, solicitar declarações, renovar matrícula, trancar matrícula e emitir diploma. O Funcionário da Secretaria pode realizar a atividade de gerenciar matrículas, e o Administrador pode gerenciar permissões no sistema.
 
