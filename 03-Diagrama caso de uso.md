@@ -78,7 +78,7 @@ Diagrama:
                                                  +-----------------------+
 ```
 
-No diagrama, os três perfis de acesso (Aluno, Funcionário da Secretaria e Administrador) têm casos de uso específicos relacionados às suas funcionalidades no sistema. 
+No diagrama é mostrado os três perfis de acesso (Aluno, Funcionário da Secretaria e Administrador) têm casos de uso específicos relacionados às suas funcionalidades no sistema. 
 
 O Aluno pode realizar várias ações, como solicitar declarações, renovar matrículas, trancar matrículas e emitir diplomas, além de realizar login e cadastrar-se no sistema. 
 
