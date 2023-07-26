@@ -1,6 +1,17 @@
 # Trabalho Digital
 * [Trabalho Digital](https://docs.google.com/document/d/1PkeDwi_QjPT2k3zmsVceqZ2kGm2nU3fM/edit)
 
+Os componentes curriculares que participarão dessa avaliação:
+
+Administração de Sistema Operacionais. Profº Luiz Aguiar
+Análise e Projeto de Sistemas. Profº Cristiano Santana
+Design Gráfico e Projeto de Interfaces. Profº Gizele Abdon
+Tecnologias Digitais na Educação. Profº Clara Casotti
+Tecnologia e Sociedade. Profº Pedro Isaac
+
+Data da apresentação: Dia 26 de Julho. Às 11h00. 
+
+
 **Apresentação do Sistema de Automação de Documentos**
 
 *Parte 1 - Introdução*
