@@ -47,12 +47,33 @@ Apresentar um projeto de ferramenta informacional (programa, software, site, apl
 # Critérios de avaliação em Tecnologia e Sociedade
 
 * O problema é significativo e está bem delimitado?
+  
+  Sim, o problema de ineficiência nos processos de registro acadêmico do IFB - Campus São Sebastião é significativo, pois impacta diretamente a experiência dos alunos e a eficiência da secretaria. O problema foi claramente identificado e delimitado, abrangendo questões como demoras, erros e insatisfação no atendimento aos estudantes.
+
 * Como foi realizado o levantamento das soluções tecnológicas disponíveis?
+
+  O levantamento das soluções tecnológicas disponíveis foi realizado por meio de pesquisa de mercado e análise de sistemas de automação acadêmica e gerenciamento de documentos já utilizados em outras instituições de ensino. Foram buscadas informações sobre as potencialidades e os limites de cada solução para verificar sua adequação às necessidades específicas do IFB - Campus São Sebastião.
+
 * Os limites e potencialidades das ferramentas atuais foram analisados?
+
+  Sim, durante a pesquisa de soluções tecnológicas disponíveis, foram analisados tanto os limites como as potencialidades de cada ferramenta. Isso permitiu avaliar quais funcionalidades seriam relevantes para o RAIFC e quais poderiam ser adequadas para resolver os problemas específicos de registro acadêmico da instituição.
+
 * Como a proposta lida com o problema?
+
+  A proposta de desenvolver o sistema "Registro Acadêmico IFB - Campus São Sebastião (RAIFC)" lida com o problema de forma abrangente, abordando as principais funcionalidades e procedimentos da secretaria que necessitam de automação e otimização. O sistema visa melhorar a eficiência e a qualidade do atendimento aos alunos, simplificando processos como cadastro de atestados médicos, renovação de matrículas e emissão de documentos.
+
 * Ela de fato resolve / ajuda a resolver o problema levantado?
+
+  Sim, a proposta de desenvolver o sistema RAIFC tem o objetivo de resolver os problemas de ineficiência nos processos de registro acadêmico do IFB - Campus São Sebastião. Com a automação das funcionalidades propostas, espera-se agilizar os procedimentos, reduzir erros e melhorar a experiência dos usuários, proporcionando um atendimento mais eficiente e satisfatório.
+
 * A proposta leva em consideração questões éticas? Como ela lida com essas questões?
+
+  Sim, a proposta leva em consideração questões éticas, especialmente no que se refere à privacidade e segurança dos dados dos alunos. O sistema RAIFC será desenvolvido seguindo as melhores práticas de segurança da informação e proteção de dados, garantindo que as informações dos estudantes sejam tratadas de forma confidencial e segura.
+
 * Quais os impactos sociais e educacionais dessa ferramenta?
+
+  A implementação do sistema RAIFC terá impactos sociais e educacionais significativos. O atendimento mais ágil e eficiente proporcionado pelo sistema contribuirá para a satisfação dos alunos e da equipe da secretaria, melhorando o clima organizacional e fortalecendo o relacionamento entre a instituição e seus estudantes. Além disso, a automação dos processos de registro acadêmico permitirá que a equipe da secretaria direcione seus esforços para atividades mais estratégicas, resultando em uma gestão acadêmica mais efetiva e focada no desenvolvimento educacional dos alunos.
+
 
 # Critérios de avaliação em Administração de Sistemas Operacionais
 
