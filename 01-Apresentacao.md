@@ -3,11 +3,11 @@
 
 Os componentes curriculares que participarão dessa avaliação:
 
-Administração de Sistema Operacionais. Profº Luiz Aguiar
-Análise e Projeto de Sistemas. Profº Cristiano Santana
-Design Gráfico e Projeto de Interfaces. Profº Gizele Abdon
-Tecnologias Digitais na Educação. Profº Clara Casotti
-Tecnologia e Sociedade. Profº Pedro Isaac
+*Administração de Sistema Operacionais. Profº Luiz Aguiar
+*Análise e Projeto de Sistemas. Profº Cristiano Santana
+*Design Gráfico e Projeto de Interfaces. Profº Gizele Abdon
+*Tecnologias Digitais na Educação. Profº Clara Casotti
+*Tecnologia e Sociedade. Profº Pedro Isaac
 
 Data da apresentação: Dia 26 de Julho. Às 11h00. 
 
