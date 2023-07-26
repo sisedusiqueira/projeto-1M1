@@ -14,9 +14,13 @@ Deverá ser enviado em anexo o trabalho digital contendo os itens destacados no 
 
 * [Trabalho Digital]()
 
+
+
 # Objetivo
 
 Apresentar um projeto de ferramenta informacional (programa, software, site, aplicativo, plataforma, rede social etc.) que busque atender a alguma demanda educacional ou que tenha alguma relação com a educação ou com questões do processo de ensino-aprendizagem.
+
+
 
 # O que o projeto deve ter
 
@@ -45,6 +49,8 @@ Apresentar um projeto de ferramenta informacional (programa, software, site, apl
   O ambiente de execução do RAIFC será baseado em uma infraestrutura de servidor web e banco de dados. O aplicativo será desenvolvido em Python, utilizando frameworks como Django para a construção da interface web e gerenciamento das funcionalidades. O banco de dados será utilizado para armazenar os registros acadêmicos dos alunos e as informações do sistema. A plataforma será hospedada em servidores do IFB, garantindo a segurança e o acesso restrito aos dados.
 
   Com a implantação do sistema RAIFC, espera-se alcançar uma significativa melhoria nos processos de registro acadêmico do IFB - Campus São Sebastião, aumentando a satisfação dos usuários e a eficiência da secretaria. O uso de tecnologia adequada e a integração dos recursos do sistema contribuirão para uma gestão acadêmica mais ágil e efetiva, fortalecendo a excelência educacional da instituição.
+
+
 
 
 # Critérios de avaliação em Tecnologia e Sociedade
@@ -78,6 +84,8 @@ Apresentar um projeto de ferramenta informacional (programa, software, site, apl
   A implementação do sistema RAIFC terá impactos sociais e educacionais significativos. O atendimento mais ágil e eficiente proporcionado pelo sistema contribuirá para a satisfação dos alunos e da equipe da secretaria, melhorando o clima organizacional e fortalecendo o relacionamento entre a instituição e seus estudantes. Além disso, a automação dos processos de registro acadêmico permitirá que a equipe da secretaria direcione seus esforços para atividades mais estratégicas, resultando em uma gestão acadêmica mais efetiva e focada no desenvolvimento educacional dos alunos.
 
 
+
+
 # Critérios de avaliação em Administração de Sistemas Operacionais
 
 * O software proposto irá executar em qual(is) Sistema(s) Operacional(is)? Por quê?
@@ -94,8 +102,54 @@ Apresentar um projeto de ferramenta informacional (programa, software, site, apl
 
   A escolha de suportar diferentes sistemas operacionais busca garantir que o software seja acessível a um público mais amplo, independentemente das preferências individuais de sistema operacional. Dessa forma, os usuários poderão utilizar o software em seus dispositivos com sistemas operacionais diferentes, sem restrições significativas de compatibilidade. Além disso, essa abordagem pode ampliar a adoção do sistema em diferentes ambientes, como instituições educacionais, empresas e órgãos governamentais, que podem utilizar sistemas operacionais variados em suas operações.
 
+
+
 * Quais requisitos mínimos para o dispositivo executar o sistema de forma satisfatória?
+
+  Os requisitos mínimos para o dispositivo executar o sistema de forma satisfatória podem variar de acordo com a complexidade e os recursos exigidos pelo sistema. No entanto, de maneira geral, podemos listar alguns requisitos mínimos comuns:
+
+1. Processador: Um processador de pelo menos 1.6 GHz ou superior é recomendado para executar o sistema de forma adequada.
+
+2. Memória RAM: Pelo menos 4 GB de RAM são recomendados para garantir um desempenho aceitável do sistema, especialmente se houver várias aplicações sendo executadas simultaneamente.
+
+3. Espaço em disco: O sistema requer um espaço mínimo em disco para a instalação do software e armazenamento de dados. Geralmente, é recomendado ter pelo menos 20 GB de espaço livre em disco.
+
+4. Sistema Operacional: O sistema pode ser desenvolvido para executar em diferentes sistemas operacionais, como Windows, macOS ou Linux. É importante verificar a compatibilidade do sistema com o sistema operacional utilizado no dispositivo.
+
+5. Resolução de tela: Uma resolução mínima de tela é necessária para exibir adequadamente a interface gráfica do sistema. Geralmente, é recomendado ter uma resolução de pelo menos 1280x768 pixels.
+
+6. Navegador da Web: Se o sistema for baseado em uma aplicação web, é necessário ter um navegador da web atualizado, como Google Chrome, Mozilla Firefox ou Microsoft Edge.
+
+7. Conexão à Internet: Se o sistema requer acesso à internet para algumas de suas funcionalidades, é necessário ter uma conexão à internet estável e com velocidade adequada.
+
+  Esses são alguns dos requisitos mínimos básicos para o dispositivo executar o sistema de forma satisfatória. É sempre recomendado verificar os requisitos específicos do sistema em questão, pois eles podem variar dependendo das tecnologias e funcionalidades utilizadas.
+
+
+
 * Quanto espaço de armazenamento será necessário para cada registro do banco de dados (separado por entidade)?
+
+Para calcular o espaço de armazenamento necessário para cada registro do banco de dados, é preciso levar em consideração os campos presentes em cada entidade e o tamanho dos dados que serão armazenados em cada campo. Considerando que cada caractere ocupa 1 Byte, cada número inteiro ocupa 4 Bytes e cada número real ocupa 8 Bytes, podemos fazer o seguinte cálculo:
+
+1. Entidade: Aluno
+   - Campo: Nome (string com 50 caracteres) -> Espaço necessário: 50 Bytes
+   - Campo: Idade (número inteiro) -> Espaço necessário: 4 Bytes
+   - Campo: Nota (número real) -> Espaço necessário: 8 Bytes
+   - Espaço total necessário para cada registro do Aluno: 50 Bytes + 4 Bytes + 8 Bytes = 62 Bytes
+
+2. Entidade: Disciplina
+   - Campo: Nome (string com 30 caracteres) -> Espaço necessário: 30 Bytes
+   - Campo: Código (string com 10 caracteres) -> Espaço necessário: 10 Bytes
+   - Espaço total necessário para cada registro da Disciplina: 30 Bytes + 10 Bytes = 40 Bytes
+
+3. Entidade: Matrícula
+   - Campo: Data (data no formato dd/mm/aaaa) -> Espaço necessário: 10 Bytes
+   - Campo: Status (string com 20 caracteres) -> Espaço necessário: 20 Bytes
+   - Espaço total necessário para cada registro da Matrícula: 10 Bytes + 20 Bytes = 30 Bytes
+
+Esses são exemplos hipotéticos de entidades e campos em um banco de dados. É importante considerar todos os campos presentes em cada entidade e calcular o espaço de armazenamento necessário para cada registro individualmente. Dessa forma, podemos dimensionar adequadamente o espaço de armazenamento total necessário para o banco de dados do sistema.
+
+
+
 * Considere que cada caractere ocupa 1 Byte, cada nº inteiro ocupa 4 Bytes e cada nº real ocupa 8 Bytes.
 
 
