@@ -9,8 +9,6 @@ src="https://media3.giphy.com/media/klES1W6eoE5k0xTPCk/200w.webp?cid=ecf05e47460
 `Projeto: Desenvolvimento de Sistema de Emissão de Documentos para o Registro Acadêmico`
 
 `1M1`
-# Trabalho Digital
-* [Trabalho Digital](https://docs.google.com/document/d/1PkeDwi_QjPT2k3zmsVceqZ2kGm2nU3fM/edit)
 
 **Descrição do Projeto: EmissIFB/RAIFC - Sistema de Automação de Documentos para o Registro Acadêmico**
 
