@@ -6,7 +6,7 @@
 *Parte 1 - Introdução*
 
 **Lizandra:**
-Olá a todos! Nós somos o grupo responsável pelo desenvolvimento do sistema de automação de documentos do nosso Instituto Federal - Campus São Sebastião. Nesta apresentação, vamos explicar como o sistema funciona e como ele irá melhorar os processos acadêmicos para alunos, funcionários da secretaria e administradores. Vamos começar!
+Olá a todos! Nós somos o grupo responsável pelo desenvolvimento do sistema de automação de documentos do Instituto Federal - Campus São Sebastião. Nesta apresentação, vamos explicar como o sistema funciona e como ele irá melhorar os processos acadêmicos para alunos, funcionários da secretaria e administradores. Vamos começar!
 
 *Parte 2 - Funcionalidades para Alunos e Funcionários*
 
