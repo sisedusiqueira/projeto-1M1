@@ -9,15 +9,10 @@ Os componentes curriculares que participaram dessa avaliação:
 * Tecnologias Digitais na Educação. Profº Clara Casotti
 * Tecnologia e Sociedade. Profº Pedro Isaac
 
-Apresentação do trabalho pelos estudantes aos professores: Dia 26 de Julho. 
-Deverá ser enviado em anexo o trabalho digital contendo os itens destacados no item 2 destas orientações.
-
-
 
 # Objetivo
 
 Apresentar um projeto de ferramenta informacional (programa, software, site, aplicativo, plataforma, rede social etc.) que busque atender a alguma demanda educacional ou que tenha alguma relação com a educação ou com questões do processo de ensino-aprendizagem.
-
 
 
 # O que o projeto deve ter
@@ -47,8 +42,6 @@ Apresentar um projeto de ferramenta informacional (programa, software, site, apl
   O ambiente de execução do RAIFC será baseado em uma infraestrutura de servidor web e banco de dados. O aplicativo será desenvolvido em Python, utilizando frameworks como Django para a construção da interface web e gerenciamento das funcionalidades. O banco de dados será utilizado para armazenar os registros acadêmicos dos alunos e as informações do sistema. A plataforma será hospedada em servidores do IFB, garantindo a segurança e o acesso restrito aos dados.
 
   Com a implantação do sistema RAIFC, espera-se alcançar uma significativa melhoria nos processos de registro acadêmico do IFB - Campus São Sebastião, aumentando a satisfação dos usuários e a eficiência da secretaria. O uso de tecnologia adequada e a integração dos recursos do sistema contribuirão para uma gestão acadêmica mais ágil e efetiva, fortalecendo a excelência educacional da instituição.
-
-
 
 
 # Critérios de avaliação em Tecnologia e Sociedade
@@ -82,7 +75,6 @@ Apresentar um projeto de ferramenta informacional (programa, software, site, apl
   A implementação do sistema RAIFC terá impactos sociais e educacionais significativos. O atendimento mais ágil e eficiente proporcionado pelo sistema contribuirá para a satisfação dos alunos e da equipe da secretaria, melhorando o clima organizacional e fortalecendo o relacionamento entre a instituição e seus estudantes. Além disso, a automação dos processos de registro acadêmico permitirá que a equipe da secretaria direcione seus esforços para atividades mais estratégicas, resultando em uma gestão acadêmica mais efetiva e focada no desenvolvimento educacional dos alunos.
 
 
-
 # Critérios de avaliação em Administração de Sistemas Operacionais
 
 * O software proposto irá executar em qual(is) Sistema(s) Operacional(is)? Por quê?
@@ -98,7 +90,6 @@ Apresentar um projeto de ferramenta informacional (programa, software, site, apl
 3. Linux: O sistema também será desenvolvido de forma a ser executado em distribuições Linux populares, como Ubuntu, Fedora, e outras, visando atender aos usuários que preferem utilizar esse sistema operacional de código aberto.
 
     A escolha de suportar diferentes sistemas operacionais busca garantir que o software seja acessível a um público mais amplo, independentemente das preferências individuais de sistema operacional. Dessa forma, os usuários poderão utilizar o software em seus dispositivos com sistemas operacionais diferentes, sem restrições significativas de compatibilidade. Além disso, essa abordagem pode ampliar a adoção do sistema em diferentes ambientes, como instituições educacionais, empresas e órgãos governamentais, que podem utilizar sistemas operacionais variados em suas operações.
-
 
 
 * Quais requisitos mínimos para o dispositivo executar o sistema de forma satisfatória?
@@ -122,7 +113,6 @@ Apresentar um projeto de ferramenta informacional (programa, software, site, apl
   Esses são alguns dos requisitos mínimos básicos para o dispositivo executar o sistema de forma satisfatória. É sempre recomendado verificar os requisitos específicos do sistema em questão, pois eles podem variar dependendo das tecnologias e funcionalidades utilizadas.
 
 
-
 * Quanto espaço de armazenamento será necessário para cada registro do banco de dados (separado por entidade)?
 
   Para calcular o espaço de armazenamento necessário para cada registro do banco de dados, é preciso levar em consideração os campos presentes em cada entidade e o tamanho dos dados que serão armazenados em cada campo. Considerando que cada caractere ocupa 1 Byte, cada número inteiro ocupa 4 Bytes e cada número real ocupa 8 Bytes, podemos fazer o seguinte cálculo:
@@ -144,7 +134,6 @@ Apresentar um projeto de ferramenta informacional (programa, software, site, apl
    - Espaço total necessário para cada registro da Matrícula: 10 Bytes + 20 Bytes = 30 Bytes
 
   Esses são exemplos hipotéticos de entidades e campos em um banco de dados. É importante considerar todos os campos presentes em cada entidade e calcular o espaço de armazenamento necessário para cada registro individualmente. Dessa forma, podemos dimensionar adequadamente o espaço de armazenamento total necessário para o banco de dados do sistema.
-
 
 
 * Considere que cada caractere ocupa 1 Byte, cada nº inteiro ocupa 4 Bytes e cada nº real ocupa 8 Bytes.
