@@ -27,11 +27,11 @@ Apresentar um projeto de ferramenta informacional (programa, software, site, apl
   
 * Apresentação do conceito da proposta, destacando o que a ferramenta vai buscar resolver.
 
-A proposta é desenvolver o sistema "Registro Acadêmico IFB - Campus São Sebastião (RAIFC)", uma solução customizada que busca resolver os problemas de registro acadêmico da instituição. O RAIFC será um aplicativo de automação de documentos destinado à Secretaria do Campus São Sebastião, permitindo que alunos e funcionários realizem procedimentos como cadastro de atestados médicos, renovação de matrículas, emissão de diplomas e solicitações de documentos de forma rápida e eficiente. A ferramenta visa melhorar a experiência dos usuários, proporcionando um atendimento mais ágil, seguro e de qualidade.
+  A proposta é desenvolver o sistema "Registro Acadêmico IFB - Campus São Sebastião (RAIFC)", uma solução customizada que busca resolver os problemas de registro acadêmico da instituição. O RAIFC será um aplicativo de automação de documentos destinado à Secretaria do Campus São Sebastião, permitindo que alunos e funcionários realizem procedimentos como cadastro de atestados médicos, renovação de matrículas, emissão de diplomas e solicitações de documentos de forma rápida e eficiente. A ferramenta visa melhorar a experiência dos usuários, proporcionando um atendimento mais ágil, seguro e de qualidade.
   
 * Apresentação dos requisitos do sistema e da modelagem em UML.
   
-Os requisitos do sistema RAIFC foram levantados em conjunto com a equipe da secretaria e os representantes dos alunos, garantindo que todas as funcionalidades essenciais fossem contempladas. A modelagem UML foi utilizada para representar visualmente a estrutura e os fluxos do sistema, incluindo diagramas de caso de uso, sequência, classes e entidade-relacionamento. Isso permitiu uma compreensão clara das interações entre os atores (alunos, funcionários e administradores) e os casos de uso do sistema.
+  Os requisitos do sistema RAIFC foram levantados em conjunto com a equipe da secretaria e os representantes dos alunos, garantindo que todas as funcionalidades essenciais fossem contempladas. A modelagem UML foi utilizada para representar visualmente a estrutura e os fluxos do sistema, incluindo diagramas de caso de uso, sequência, classes e entidade-relacionamento. Isso permitiu uma compreensão clara das interações entre os atores (alunos, funcionários e administradores) e os casos de uso do sistema.
 
 * Interface gráfica do aplicativo.
 
@@ -39,7 +39,10 @@ Os requisitos do sistema RAIFC foram levantados em conjunto com a equipe da secr
   
 * Apresentação dos detalhes do ambiente de execução.
 
-A interface gráfica do RAIFC foi projetada com foco na usabilidade e na experiência do usuário. Foram utilizadas as cores e elementos da identidade visual do IFB, proporcionando uma identificação visual imediata com a instituição. A disposição intuitiva dos elementos e a navegação simplificada garantem que os usuários possam utilizar o aplicativo de forma fácil e eficaz.
+  O ambiente de execução do RAIFC será baseado em uma infraestrutura de servidor web e banco de dados. O aplicativo será desenvolvido em Python, utilizando frameworks como Django para a construção da interface web e gerenciamento das funcionalidades. O banco de dados será utilizado para armazenar os registros acadêmicos dos alunos e as informações do sistema. A plataforma será hospedada em servidores do IFB, garantindo a segurança e o acesso restrito aos dados.
+
+Com a implantação do sistema RAIFC, espera-se alcançar uma significativa melhoria nos processos de registro acadêmico do IFB - Campus São Sebastião, aumentando a satisfação dos usuários e a eficiência da secretaria. O uso de tecnologia adequada e a integração dos recursos do sistema contribuirão para uma gestão acadêmica mais ágil e efetiva, fortalecendo a excelência educacional da instituição.
+
 
 
 # Critérios de avaliação em Tecnologia e Sociedade
