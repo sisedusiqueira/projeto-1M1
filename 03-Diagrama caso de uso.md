@@ -2,7 +2,7 @@
 **Apresentação: Sistema de Automação de Documentos do Registro Acadêmico - IFB Campus São Sebastião**
 
 *Bom dia a todos!*
-Hoje, tenho o prazer de apresentar a vocês o nosso projeto de Sistema de Automação de Documentos para o Registro Acadêmico do Instituto Federal de Brasília - Campus São Sebastião. Esse sistema tem como objetivo simplificar e otimizar o processo de emissão e gerenciamento de documentos acadêmicos para nossos alunos e equipe administrativa.
+Hoje, tenho o prazer de apresentar a vocês o nosso projeto de Sistema de Automação de Documentos para o Registro Acadêmico do Instituto Federal de Brasília - Campus São Sebastião. Esse sistema tem como objetivo simplificar e otimizar o processo de emissão e gerenciamento de documentos acadêmicos para alunos e equipe administrativa.
 
 **Contexto do Projeto:**
 - Nosso sistema será desenvolvido para atender aos seguintes atores: Aluno, Funcionário da Secretaria e Administrador.
