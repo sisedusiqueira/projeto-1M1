@@ -15,17 +15,32 @@ Também deverá ser enviado em anexo o trabalho digital contendo os itens destac
 
 Apresentar um projeto de ferramenta informacional (programa, software, site, aplicativo, plataforma, rede social etc.) que busque atender a alguma demanda educacional ou que tenha alguma relação com a educação ou com questões do processo de ensino-aprendizagem.
 
-# O que o projeto deve ter:
+# O que o projeto deve ter
 
 * Definição do problema a ser abordado.
   
   O problema abordado é a ineficiência dos processos de registro acadêmico no Instituto Federal de Brasília - Campus São Sebastião (IFB - Campus São Sebastião). Os procedimentos manuais para o cadastro de atestados médicos, renovação de matrículas, emissão de diplomas e solicitações de documentos têm gerado demoras, erros e insatisfação entre os alunos e a equipe da secretaria. Há uma necessidade clara de aprimorar esses processos para garantir maior agilidade, precisão e qualidade no atendimento aos estudantes.
   
 * Soluções disponíveis: Verificar as soluções tecnológicas atualmente disponíveis, quais são suas potencialidades e seus limites.
+
+  Para abordar esse problema, foram analisadas as soluções tecnológicas disponíveis no mercado. Verificaram-se sistemas de automação acadêmica e de gerenciamento de documentos já utilizados em outras instituições de ensino. Foram identificadas as potencialidades dessas soluções, como a automatização de fluxos de trabalho, a redução de erros e a integração de dados. No entanto, também foram observados limites, como a falta de personalização para as necessidades específicas do IFB - Campus São Sebastião e a complexidade de algumas ferramentas que dificultariam a adoção pelos usuários.
+  
 * Apresentação do conceito da proposta, destacando o que a ferramenta vai buscar resolver.
+
+A proposta é desenvolver o sistema "Registro Acadêmico IFB - Campus São Sebastião (RAIFC)", uma solução customizada que busca resolver os problemas de registro acadêmico da instituição. O RAIFC será um aplicativo de automação de documentos destinado à Secretaria do Campus São Sebastião, permitindo que alunos e funcionários realizem procedimentos como cadastro de atestados médicos, renovação de matrículas, emissão de diplomas e solicitações de documentos de forma rápida e eficiente. A ferramenta visa melhorar a experiência dos usuários, proporcionando um atendimento mais ágil, seguro e de qualidade.
+  
 * Apresentação dos requisitos do sistema e da modelagem em UML.
+  
+Os requisitos do sistema RAIFC foram levantados em conjunto com a equipe da secretaria e os representantes dos alunos, garantindo que todas as funcionalidades essenciais fossem contempladas. A modelagem UML foi utilizada para representar visualmente a estrutura e os fluxos do sistema, incluindo diagramas de caso de uso, sequência, classes e entidade-relacionamento. Isso permitiu uma compreensão clara das interações entre os atores (alunos, funcionários e administradores) e os casos de uso do sistema.
+
 * Interface gráfica do aplicativo.
+
+  A interface gráfica do RAIFC foi projetada com foco na usabilidade e na experiência do usuário. Foram utilizadas as cores e elementos da identidade visual do IFB, proporcionando uma identificação visual imediata com a instituição. A disposição intuitiva dos elementos e a navegação simplificada garantem que os usuários possam utilizar o aplicativo de forma fácil e eficaz.
+  
 * Apresentação dos detalhes do ambiente de execução.
+
+A interface gráfica do RAIFC foi projetada com foco na usabilidade e na experiência do usuário. Foram utilizadas as cores e elementos da identidade visual do IFB, proporcionando uma identificação visual imediata com a instituição. A disposição intuitiva dos elementos e a navegação simplificada garantem que os usuários possam utilizar o aplicativo de forma fácil e eficaz.
+
 
 # Critérios de avaliação em Tecnologia e Sociedade
 
