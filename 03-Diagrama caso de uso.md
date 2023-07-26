@@ -39,58 +39,77 @@ casos_de_uso:
       - Aluno
       - Funcionário da Secretaria
       - Administrador
-        
+    
     descrição: >
     
       Os atores Aluno, Funcionário da Secretaria e Administrador
       podem cadastrar suas informações no sistema.
 
   - nome: Login
-  - 
+    
     atores:
     
       - Aluno
       - Funcionário da Secretaria
       - Administrador
-      - 
+        
     descrição: >
 
       Os atores Aluno, Funcionário da Secretaria e Administrador
       podem fazer login no sistema para acessar suas funcionalidades.
 
   - nome: Gerenciar Sistema
-  - 
+    
     atores:
     
       - Administrador
-      - 
+        
     descrição: >
 
       O Administrador do sistema pode gerenciar o sistema,
       configurando suas opções e funcionalidades.
 
   - nome: Gerenciar Matrículas
+    
     atores:
+    
       - Funcionário da Secretaria
+        
     descrição: >
+    
       O Funcionário da Secretaria pode gerenciar as matrículas dos alunos,
       realizando matrículas, transferências e trancamentos.
 
+
   - nome: Solicitar Declaração
+    
     atores:
+    
       - Aluno
+        
     descrição: >
+    
       O Aluno pode solicitar declarações ou histórico acadêmico.
 
+
   - nome: Solicitar Diploma
+    
     atores:
+    
       - Aluno
+        
     descrição: >
+
       O Aluno pode solicitar a emissão do diploma após conclusão do curso.
 
+
   - nome: Renovação de Matrícula
+    
     atores:
+    
       - Aluno
+        
     descrição: >
+    
       O Aluno pode renovar sua matrícula para o próximo período letivo.
 
