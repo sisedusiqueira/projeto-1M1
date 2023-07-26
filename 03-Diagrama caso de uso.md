@@ -29,3 +29,55 @@ Hoje, tenho o prazer de apresentar a vocês o nosso projeto de Sistema de Automa
 Estamos empolgados com o potencial que esse Sistema de Automação de Documentos trará para o Registro Acadêmico do IFB - Campus São Sebastião. Acreditamos que a sua implementação trará benefícios significativos para nossos alunos, equipe administrativa e o Instituto como um todo. Esperamos contar com o apoio da banca de professores para seguir em frente com o desenvolvimento desse projeto e, em breve, tornar essa solução uma realidade para a nossa instituição.
 
 *Muito obrigado pela atenção de todos! Agora, estou disponível para responder a quaisquer perguntas ou dúvidas que vocês possam ter.*
+
+casos_de_uso:
+  - nome: Cadastrar Usuário
+    atores:
+      - Aluno
+      - Funcionário da Secretaria
+      - Administrador
+    descrição: >
+      Os atores Aluno, Funcionário da Secretaria e Administrador
+      podem cadastrar suas informações no sistema.
+
+  - nome: Login
+    atores:
+      - Aluno
+      - Funcionário da Secretaria
+      - Administrador
+    descrição: >
+      Os atores Aluno, Funcionário da Secretaria e Administrador
+      podem fazer login no sistema para acessar suas funcionalidades.
+
+  - nome: Gerenciar Sistema
+    atores:
+      - Administrador
+    descrição: >
+      O Administrador do sistema pode gerenciar o sistema,
+      configurando suas opções e funcionalidades.
+
+  - nome: Gerenciar Matrículas
+    atores:
+      - Funcionário da Secretaria
+    descrição: >
+      O Funcionário da Secretaria pode gerenciar as matrículas dos alunos,
+      realizando matrículas, transferências e trancamentos.
+
+  - nome: Solicitar Declaração
+    atores:
+      - Aluno
+    descrição: >
+      O Aluno pode solicitar declarações ou histórico acadêmico.
+
+  - nome: Solicitar Diploma
+    atores:
+      - Aluno
+    descrição: >
+      O Aluno pode solicitar a emissão do diploma após conclusão do curso.
+
+  - nome: Renovação de Matrícula
+    atores:
+      - Aluno
+    descrição: >
+      O Aluno pode renovar sua matrícula para o próximo período letivo.
+
