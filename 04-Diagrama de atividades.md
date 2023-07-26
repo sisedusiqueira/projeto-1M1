@@ -56,33 +56,3 @@ Diagrama de Caso de Uso - Sistema de Automação de Documentos do Registro Acad�
 
 O diagrama de caso de uso representa a interação entre os atores e as funcionalidades do sistema. Ele fornece uma visão geral dos serviços disponibilizados e das ações que cada ator pode realizar. Essa ferramenta auxilia no entendimento das principais funcionalidades do sistema de automação de documentos do Registro Acadêmico do IFB - Campus São Sebastião, permitindo uma visualização clara das interações entre os usuários e o software.
 
-Diagrama de Atividades: Automação de Documentos do Registro Acadêmico
-
-+-----------------------------------+
-| Início                            |
-+-----------------------------------+
-| 1. Solicitar Login                |
-| 2. Realizar Login                 |
-| 3. Verificar Perfil de Acesso     |
-+-----------------------------------+
-       |
-       v
-+-----------------------------------+
-| Verificar Permissões             |
-+-----------------------------------+
-| Se Aluno:                         |
-|   - Mostrar Opções do Aluno       |
-|   - Escolher Ação                |
-|   - Realizar Ação                |
-|   - Voltar ao Menu do Aluno       |
-| Senão se Funcionário da Secretaria: |
-|   - Mostrar Opções do Funcionário |
-|   - Escolher Ação                |
-|   - Realizar Ação                |
-|   - Voltar ao Menu do Funcionário |
-+-----------------------------------+
-       |
-       v
-+-----------------------------------+
-| Fim                               |
-+-----------------------------------+
